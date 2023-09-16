@@ -13,7 +13,7 @@ const libraries = ['visualization'];
 export const HomePage = ({ map_center, setMapCenter, zoom, setZoom }) => {  
 
   const { isLoaded } = useLoadScript({
-    googleMapsApiKey: 'AIzaSyCTCIyYHCeWx1duTYP38_g8ikK3_fwVrSE',
+    googleMapsApiKey: 'AIzaSyBV9TBQNeuCWnU4vC2ASsK_xjYZPE8mzgo',
     libraries
   });
 
