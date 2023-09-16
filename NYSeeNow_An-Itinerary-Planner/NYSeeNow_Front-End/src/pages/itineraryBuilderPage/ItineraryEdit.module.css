@@ -1,0 +1,59 @@
+.editContainer {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: #ffffff;
+}
+
+.attractionContainer {
+    border: 1px solid black;
+    border-radius: 2%;
+    padding: 1rem;
+    margin: 1rem auto;
+    background-color: rgba(255, 255, 255, 0.6);
+    max-width: 30rem;
+    width: 40vw;
+    box-shadow: 0.1rem 0.1rem 0 rgba(0, 0, 0, 0.3);
+}
+
+.attractionName {
+    font-size: 1.5vw;
+    margin-bottom: 8px;
+}
+
+.timeLabel {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+
+.timeInput {
+    margin-left: 8px;
+}
+
+.submitButton {
+    margin-top: 15px;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007BFF;
+    color: white;
+    cursor: pointer;
+}
+
+.submitButton:hover {
+    background-color: #0056b3;
+}
+
+.GraphStyle {
+    width: 10rem;
+    height: 2rem;
+    margin: auto;
+    position: relative;
+    padding: 1rem;
+}

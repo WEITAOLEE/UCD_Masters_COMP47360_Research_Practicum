@@ -1,0 +1,18 @@
+{
+  "position": { "lat": 40.7520679, "lng": -74.0010071 },
+  "name": "The Plinth",
+  "type": "artwork",
+  "all_details": {
+    "type": "Feature",
+    "properties": {
+      "name": "The Plinth",
+      "tourism": "artwork",
+      "description": "A space for rotating, large contemporary art commissions. Artworks are in place for 18 months.",
+      "opening_hours": "nan",
+      "website": "nan"
+    },
+    "geometry": { "type": "Point", "coordinates": [-74.0010071, 40.7520679] }
+  },
+  "day": "Wed Jul 19 2023 01:00:00 GMT+0100 (Irish Standard Time)",
+  "day_busyness": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+}

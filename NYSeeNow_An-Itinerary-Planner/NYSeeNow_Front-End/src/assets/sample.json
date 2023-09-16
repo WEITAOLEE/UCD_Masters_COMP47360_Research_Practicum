@@ -1,0 +1,3361 @@
+{
+  "type": "FeatureCollection",
+  "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Dakota",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9761539, 40.7767769] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MoMA",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9775451, 40.761612] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint Patrick’s Cathedral",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "06:30-20:45",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9761753, 40.7585447] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New-York Historical Society",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "nan",
+        "website": "https://www.nyhistory.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.974265, 40.779286] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cathedral of Saint John the Divine",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "https://www.stjohndivine.org"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9617468, 40.803767] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Metropolitan Museum of Art",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "10:00-17:00; Fr-Sa 10:00-21:00; We off",
+        "website": "https://www.metmuseum.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9634178, 40.7793968] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Washington Mews",
+        "tourism": "yes",
+        "description": "nan",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9956646, 40.7314412] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gay Street",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.000518, 40.7336064] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint Lukes Place",
+        "tourism": "yes",
+        "description": "nan",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0061566, 40.730164] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Cloisters",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "https://www.metmuseum.org/visit/plan-your-visit/met-cloisters"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9317918, 40.8648228] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The High Line",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "Mo-Su 07:00-19:00",
+        "website": "https://www.thehighline.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0045759, 40.7479527] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Museum of Jewish Heritage",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "nan",
+        "website": "https://mjhnyc.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0186031, 40.7060437] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Serpentine Structures",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://hudsonriverpark.org/activities/serpentine-structures/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0121608, 40.7228631] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bryant Park",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "website": "https://bryantpark.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9835384, 40.7537508] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Statue of Liberty",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0445353, 40.6892395] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Empire State Building",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "Mo-Su 08:00-02:00",
+        "website": "https://www.esbnyc.com/explore"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9856589, 40.748442] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Blockhouse",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "https://www.centralparknyc.org/locations/blockhouse"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9562876, 40.7986699] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chrysler Building",
+        "tourism": "yes",
+        "description": "nan",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9753388, 40.7516216] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Daily News Building",
+        "tourism": "yes",
+        "description": "nan",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9732003, 40.7497454] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "United Nations Headquarters",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "https://www.un.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9675511, 40.7496007] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "USS Intrepid",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.000829, 40.7647343] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beach Museum of Art",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-96.5787359, 39.1868978] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Rink at Rockefeller Center",
+        "tourism": "yes",
+        "description": "nan",
+        "opening_hours": "Oct-Apr 08:30-00:00",
+        "website": "https://www.therinkatrockcenter.com/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9784188, 40.7586424] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sunset Zoo",
+        "tourism": "zoo",
+        "description": "Discover a captivating world filled with fascinating creatures from across the globe right here in Manhattan!",
+        "opening_hours": "Mo-Su 09:30-17:00",
+        "website": "https://www.sunsetzoo.com/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-96.5957218, 39.1770169] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Woolworth Building",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0083376, 40.7124543] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Jay",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0159921, 40.6914461] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lincoln Center for the Performing Arts",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9842234, 40.7726126] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ellis Island Immigration Museum",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "nan",
+        "website": "https://www.nps.gov/elis/index.htm"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0395257, 40.6991123] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tisch's Children Zoo",
+        "tourism": "zoo",
+        "description": "Discover a captivating world filled with fascinating creatures from across the globe right here in Manhattan!",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9705034, 40.7684708] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Columbus Circle",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9818944, 40.7680767] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Museum of Arts and Design",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "Tu, We, Fr-Su 10:00-18:00; Th 10:00-21:00",
+        "website": "https://www.madmuseum.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9820053, 40.7673824] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madison Square Garden",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "http://www.thegarden.com/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9935059, 40.7505185] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Union Pacific Train Depot",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-96.5578143, 39.1749936] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Met Life Tower",
+        "tourism": "yes",
+        "description": "nan",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9873592, 40.7412668] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alphabet City",
+        "tourism": "yes",
+        "description": "nan",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9795833, 40.7251022] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SoHo",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9987505, 40.72288] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tudor City",
+        "tourism": "yes",
+        "description": "nan",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9713889, 40.7486231] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flint Hills Discovery Center",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-96.5598614, 39.1765236] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New York City Police Memorial",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0167215, 40.7119788] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paley Center for Media",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "nan",
+        "website": "https://www.paleycenter.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9775909, 40.7605824] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "McGraw-Hill Waterfall Tunnel",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.982623, 40.7601566] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guggenheim Museum",
+        "tourism": "museum",
+        "description": "Hint: Saturdays 18:00-20:00 Pay-What-You-Wish Admission",
+        "opening_hours": "Mo, We-Fr, Su 11:00-18:00; Th off; Sa 11:00-20:00",
+        "website": "https://www.guggenheim.org/new-york"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9588842, 40.7829919] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wavertree",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0030208, 40.7052525] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ambrose",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "https://southstreetseaportmuseum.org/lightship-ambrose/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0024629, 40.705312] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Helen McAllister",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.003384, 40.7053456] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riley County Museum",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-96.5962999, 39.1923611] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cleopatra's Needle",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://www.centralparknyc.org/locations/obelisk"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9653965, 40.7796359] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Picnic Area on Marcus Garvey Pool Deck",
+        "tourism": "picnic_site",
+        "description": "No longer a pool, this area of the main pool deck is now the distribution point for free lunches for school-aged children on pool opening days",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9428366, 40.8052123] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Ukrainian Museum",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "\"Temporarily closed\"",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9897653, 40.7276617] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Merchant's House Museum",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "Sep-May Th-Su 13:00-17:00; Jun-Aug We-Su 13:00-17:00; PH off",
+        "website": "https://merchantshouse.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9923438, 40.7276576] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eden Gallery",
+        "tourism": "gallery",
+        "description": "Explore the creativity and imagination of local and international artists through captivating exhibitions and thought-provoking displays",
+        "opening_hours": "09:00-20:00",
+        "website": "https://www.eden-gallery.com/gallery/nyc-soho"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0014075, 40.7228138] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sperone Westwater",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "nan",
+        "website": "https://www.speronewestwater.com/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9925667, 40.7231513] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Museum",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "Tu-Su 11:00-18:00",
+        "website": "https://www.newmuseum.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9928349, 40.722347] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Washington Square Arch",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9971028, 40.7312355] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Drawing Center",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0028905, 40.7224455] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New York City Fire Museum",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "10:00-17:00",
+        "website": "http://www.nycfiremuseum.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0069355, 40.7255756] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "FDNY Ladder 8",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0066188, 40.7195568] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Museum at Eldridge Street",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "nan",
+        "website": "https://www.eldridgestreet.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.993461, 40.7147291] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fireboat John J. Harvey",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "http://www.fireboat.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0098033, 40.7523288] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lightship Frying Pan",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "http://www.fryingpan.com/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0092753, 40.7521022] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flatiron Building",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "https://theflatironbuilding.com/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9896864, 40.74103] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New York Public Library",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "Mo,Th 08:00-20:00; Tu,We 08:00-21:00; Fr 08:00-18:00; Sa 10:00-18:00; Su 10:00-17:00",
+        "website": "https://www.nypl.org/locations/schwarzman"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9822454, 40.7532182] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trump Tower",
+        "tourism": "yes",
+        "description": "nan",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9738927, 40.7623189] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Intrepid Museum",
+        "tourism": "museum",
+        "description": "Museum of Marine, Aircraft and Space",
+        "opening_hours": "Mo-Su 10:00-17:00",
+        "website": "https://www.intrepidmuseum.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9995256, 40.7645198] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Japan Society",
+        "tourism": "yes",
+        "description": "nan",
+        "opening_hours": "nan",
+        "website": "https://www.japansociety.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9682461, 40.7525569] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ford Foundation",
+        "tourism": "yes",
+        "description": "nan",
+        "opening_hours": "nan",
+        "website": "https://www.fordfoundation.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.971181, 40.7498476] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand Central Terminal",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "Mo-Su 05:30-02:00",
+        "website": "https://www.grandcentralterminal.com/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9772793, 40.7526433] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint Patrick’s Cathedral",
+        "tourism": "yes",
+        "description": "nan",
+        "opening_hours": "06:30-20:45",
+        "website": "https://www.saintpatrickscathedral.org"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9762957, 40.7585895] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Radio City Music Hall",
+        "tourism": "yes",
+        "description": "nan",
+        "opening_hours": "09:30-17:00",
+        "website": "http://www.radiocity.com/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9792746, 40.7598175] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Vernon Hotel Museum",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "nan",
+        "website": "https://mvhm.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9597128, 40.7605217] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Times Square Ball",
+        "tourism": "attraction",
+        "description": "The famous New Years Ball, as of 2020 the sixth ball is being used, sits atop this building year round.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9865766, 40.756132] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Asia Society",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "Tu-Su 11:00-18:00",
+        "website": "http://www.asiasociety.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9642913, 40.7698384] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frick Collection",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "\"closed for renovation, temporary located 945 Madison Ave\"",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.967146, 40.7712772] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cooper–Hewitt, Smithsonian Design Museum",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "nan",
+        "website": "https://www.cooperhewitt.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9577609, 40.7842886] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Institute for the Study of the Ancient World",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "nan",
+        "website": "http://isaw.nyu.edu/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9602334, 40.7799803] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neue Galerie New York",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "nan",
+        "website": "https://www.neuegalerie.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9602374, 40.7812191] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Jewish Museum",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "Mo, Tu, Sa, Su 11:00-17:45; Th 11:00-20:00; Fr 11:00-16:00",
+        "website": "https://thejewishmuseum.org"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.957186, 40.7854051] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The San Remo",
+        "tourism": "yes",
+        "description": "nan",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.975152, 40.7780075] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Children's Museum of Manhattan",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "Su-Fr 10:00-17:00; Sa 10:00-19:00",
+        "website": "https://www.cmom.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9773343, 40.7858798] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nicholas Roerich Museum",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "nan",
+        "website": "http://www.roerich.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9690037, 40.802929] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Museum of the City of New York",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "Mo-Su 10:00-18:00",
+        "website": "https://www.mcny.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9519079, 40.792506] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Museo Del Barrio",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "nan",
+        "website": "http://www.elmuseo.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9513946, 40.7931062] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "National Museum of Catholic Art and History",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.934369, 40.7949253] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abyssinian Baptist Church",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9414779, 40.8166419] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hamilton Grange National Memorial",
+        "tourism": "museum",
+        "description": "In 1801, Hamilton hired John McComb Jr. to design his country home in Harlem. Hamilton’s impact on society reaches far beyond New York City, but it was the backdrop to his many personal and professional developments.",
+        "opening_hours": "nan",
+        "website": "https://www.nps.gov/hagr/index.htm"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9473012, 40.82136] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "General Grant National Memorial",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9630506, 40.8134537] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morris-Jumel Mansion",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "Th 13:00-16:00; Fr,Sa 11:00-16:00",
+        "website": "https://www.morrisjumel.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9385796, 40.8344678] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint Paul's Chapel",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "https://www.trinitywallstreet.org/congregation/spc/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0091964, 40.7113153] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "9/11 Memorial & Museum",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "Mo-Th 09:00-20:00, Fr-Sa 09:00-21:00, Su 09:00-20:00",
+        "website": "https://www.911memorial.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0127418, 40.711456] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "40 Wall Street",
+        "tourism": "yes",
+        "description": "nan",
+        "opening_hours": "nan",
+        "website": "https://www.40wallstreet.com"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0097118, 40.7070285] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New York Stock Exchange",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0112103, 40.7070248] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MoMA",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "Mo-Sa,Su 10:30-17:30; Fr 10:30-20:00",
+        "website": "https://www.moma.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9775451, 40.761612] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Circle Line",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "https://www.circleline.com"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0015078, 40.7627645] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Commanding Officer's Quarters",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0131401, 40.6903324] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The HoloCenter",
+        "tourism": "gallery",
+        "description": "Explore the creativity and imagination of local and international artists through captivating exhibitions and thought-provoking displays",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0170718, 40.6891597] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gracie Mansion",
+        "tourism": "yes",
+        "description": "nan",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9430711, 40.7761126] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blackwell House",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9511335, 40.7603348] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Margaret Corbin Drive",
+        "tourism": "viewpoint",
+        "description": "nan",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9330332, 40.8618353] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Whitney Museum of American Art",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "nan",
+        "website": "https://www.whitney.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0089385, 40.739633] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harlem Fire Watchtower",
+        "tourism": "viewpoint",
+        "description": "nan",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9435894, 40.8041111] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peace Form One",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://www.nycgovparks.org/parks/ralph-bunche-park/monuments/195"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9696029, 40.7495022] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Street Seaport",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0029056, 40.7057505] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Central Park Zoo",
+        "tourism": "zoo",
+        "description": "Discover a captivating world filled with fascinating creatures from across the globe right here in Manhattan!",
+        "opening_hours": "Nov-Mar: 10:00-16:00; Apr-Oct: 10:00-17:00",
+        "website": "https://centralparkzoo.com/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9716988, 40.7677015] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New York Studio School of Drawing, Painting and Sculpture",
+        "tourism": "yes",
+        "description": "nan",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9972548, 40.7322674] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Richard Morris Hunt",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://www.nycgovparks.org/parks/central-park/monuments/756"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9679875, 40.7714555] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Joan of Arc Memorial",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://www.nycgovparks.org/parks/riverside-park/monuments/819"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9764799, 40.7941111] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stonewall Inn",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "https://thestonewallinnnyc.com/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0021484, 40.7338007] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paula Cooper Gallery",
+        "tourism": "gallery",
+        "description": "Explore the creativity and imagination of local and international artists through captivating exhibitions and thought-provoking displays",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0064354, 40.7470923] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fraunces Tavern Museum",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "We-Su 12:00-17:00",
+        "website": "https://www.frauncestavernmuseum.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0113536, 40.7033867] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "National Museum of the American Indian",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "Mo-Su 10:00-17:00",
+        "website": "https://americanindian.si.edu/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0137472, 40.7040265] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yeshiva University Museum",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "nan",
+        "website": "https://www.yumuseum.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9938312, 40.737978] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dahesh Museum of Art",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "nan",
+        "website": "http://www.daheshmuseum.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0049076, 40.7250957] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Museum of African Art",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9977778, 40.725] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lower East Side Tenement Museum",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "Mo-Su 10:00-18:00",
+        "website": "https://www.tenement.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9900266, 40.7187837] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Charging Bull",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "http://chargingbull.com/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0134462, 40.7055641] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brooklyn Bridge",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9963579, 40.7056927] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glen Span Arch",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "https://www.centralparknyc.org/locations/glen-span-arch"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9591729, 40.7946779] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "American Museum of Natural History",
+        "tourism": "museum",
+        "description": "The American Museum of Natural History is a natural history museum on the Upper West Side of Manhattan in New York City. In Theodore Roosevelt Park, across the street from Central Park, the museum complex comprises 26 interconnected buildings housing 45 p",
+        "opening_hours": "Mo-Su 10:00-17:30",
+        "website": "https://www.amnh.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.974211, 40.7810986] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manhattan Bridge",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9905194, 40.7070733] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sir Walter Scott",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://www.nycgovparks.org/parks/central-park/monuments/1411"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9723395, 40.7701407] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Robert Burns",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://www.nycgovparks.org/parks/central-park/monuments/197"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9725659, 40.770193] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Christopher Columbus",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://www.nycgovparks.org/parks/central-park/monuments/297"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9727725, 40.7699059] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "George Washington",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.990695, 40.7353762] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mohandas Gandhi",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9913248, 40.7355514] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vessel",
+        "tourism": "artwork",
+        "description": "A cascading set of staircases by architect Thomas Heatherwick. Vessel was opened March 15, 2019 and is located in Hudson Yards in Manhattan.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0021526, 40.753805] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gapstow Bridge",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "https://www.centralparknyc.org/locations/gapstow-bridge"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9738307, 40.7669275] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Sphere",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0138892, 40.7104974] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "William Shakespeare",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://www.nycgovparks.org/parks/central-park/monuments/1431"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9723702, 40.7697989] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Indian Hunter",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://www.nycgovparks.org/parks/central-park/monuments/769"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9731523, 40.7703769] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fitz-Greene Halleck",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://www.nycgovparks.org/parks/central-park/monuments/658"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9721367, 40.7706639] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alice in Wonderland",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://www.nycgovparks.org/parks/central-park/monuments/13"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9665337, 40.7750382] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "International Center of Photography",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "nan",
+        "website": "https://www.icp.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9837251, 40.7557394] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazen' Maze",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "https://www.adventuresgovisland.com/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0208818, 40.6899741] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flywire Zipline",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "https://www.adventuresgovisland.com/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0212396, 40.6902255] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bow Bridge",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "https://www.centralparknyc.org/locations/bow-bridge"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.971768, 40.7757593] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Central Park Carousel",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "https://www.centralparknyc.org/locations/carousel"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9752476, 40.7699426] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madame Tussauds New York",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "nan",
+        "website": "https://www.madametussauds.com/new-york/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9884505, 40.7562117] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ripley's Believe It or Not!",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "Mo-Su 09:00-01:00",
+        "website": "https://ripleysnewyork.com"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9885078, 40.756466] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sherman Zwicker",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "https://www.grandbanks.nyc/sherman-zwicker/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0160588, 40.7202745] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lenfest Center for the Arts",
+        "tourism": "gallery",
+        "description": "Explore the creativity and imagination of local and international artists through captivating exhibitions and thought-provoking displays",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9586965, 40.8172335] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rockefeller Center",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "https://www.rockefellercenter.com/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9800936, 40.7592398] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Diamond District",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9801582, 40.7573718] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Times Square",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9860053, 40.7572603] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Poster House",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "We-Mo 11:00-18:00, Tu off",
+        "website": "https://posterhouse.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9933334, 40.7435904] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "One World Trade Center",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "http://www.wtc.com/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0131894, 40.7129993] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GWB View",
+        "tourism": "viewpoint",
+        "description": "nan",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9446423, 40.8498716] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HBP 187 View",
+        "tourism": "viewpoint",
+        "description": "nan",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9268503, 40.8509205] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Good Defeats Evil",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "http://s3.amazonaws.com/uploads.knightlab.com/storymapjs/a18f988cbfe43b833e72563500e671d1/goodvsevil/draft.html"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9669321, 40.7516118] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berlin Wall",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.966533, 40.7511131] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Netherland Monument",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://www.nycgovparks.org/parks/battery-park/monuments/1092"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.014598, 40.7044082] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Little Island",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "website": "https://littleisland.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0106097, 40.7420048] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Statue of Liberty Museum",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "nan",
+        "website": "https://www.statueofliberty.org/statue-of-liberty/statue-of-liberty-museum/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0463538, 40.690821] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lower East Side Skatepark",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.992851, 40.7113976] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moynihan Train Hall",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9953378, 40.7512987] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bethesda Fountain",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "https://www.centralparknyc.org/locations/bethesda-fountain"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9708327, 40.7743159] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mother Goose",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://www.nycgovparks.org/parks/central-park/monuments/1069"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9695426, 40.7724161] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Snow Babies",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://www.nycgovparks.org/parks/central-park/monuments/1460"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9697494, 40.7724745] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "John Lennon's Imagine",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://www.nycgovparks.org/parks/central-park/monuments/764"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9752161, 40.775745] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roscoe Conkling",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://www.nycgovparks.org/parks/madisonsquarepark/monuments/319"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9882016, 40.7412404] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "William Henry Seward Monument",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://www.nycgovparks.org/parks/madisonsquarepark/monuments/1429"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.988837, 40.7415001] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chester Alan Arthur",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://www.nycgovparks.org/parks/madisonsquarepark/monuments/55"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9870708, 40.7427844] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Admiral David Glasgow Farragut",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://www.nycgovparks.org/parks/madisonsquarepark/monuments/466"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9876634, 40.7427637] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "William Tecumseh Sherman",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://www.nycgovparks.org/parks/grand-army-plaza-m062/monuments/1442"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9730615, 40.7648102] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Washington Mews",
+        "tourism": "yes",
+        "description": "nan",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9963705, 40.731742] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Washington Mews",
+        "tourism": "yes",
+        "description": "nan",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9951761, 40.7312333] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crack Is Wack",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9318386, 40.804735] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Independence Flagstaff",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9902996, 40.7359249] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rolling Benches",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9627655, 40.813386] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rolling Benches",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9632577, 40.8135269] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Huddlestone Arch",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "https://www.centralparknyc.org/locations/huddlestone-arch"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9556927, 40.795797] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "McGraw-Hill Waterfall Tunnel",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9830123, 40.7596145] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "McGraw-Hill Waterfall Tunnel",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9830945, 40.759501] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sherman Creek",
+        "tourism": "picnic_site",
+        "description": "nan",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9183446, 40.8609689] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tortoise",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9727565, 40.7679978] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seal",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9716059, 40.7683715] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puffin",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9713336, 40.7681959] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "California Sea Lion",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9717588, 40.767819] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gentoo Penguin",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.971457, 40.7683299] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grizzly Bear",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.971913, 40.7684111] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Snow Monkey",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9723113, 40.7681796] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Red Panda",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9727846, 40.7682913] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Snow Leopard",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9726493, 40.7686428] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abraham Lincoln",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9900668, 40.7362448] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marquis de Lafayette",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9899886, 40.7356902] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Triumph of the Human Spirit",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0028881, 40.7144385] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prometheus",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://www.rockefellercenter.com/art-and-history/art/prometheus/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9785783, 40.7587051] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dyckman Farmhouse Museum",
+        "tourism": "museum",
+        "description": "Museum in the city's only remaining Dutch colonial farmhouse (built circa 1764) and its garden.",
+        "opening_hours": "Th-Sa 11:00-16:00; Su 11:00-15:00",
+        "website": "https://dyckmanfarmhouse.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9228859, 40.8673822] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eagle",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0158334, 40.7021499] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Museum of American Finance",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "Tu-Sa 10:00-16:00",
+        "website": "https://www.moaf.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0091958, 40.7063713] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rubin Museum of Art",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "Mo 11:00-17:00, Sa,Su 11:00-18:00; We 11:00-21:00, Th 11:00-17:00, Fr 11:00-22:00",
+        "website": "http://rubinmuseum.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9977377, 40.7400959] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Johnny Kaw Statue",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-96.5736732, 39.1801252] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bosco Clock Tower",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-96.582684, 39.1889086] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Family",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-96.575527, 39.2116419] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jasper’s Split Star",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0114845, 40.7132396] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "3000 A.D. Diffusion Piece",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://www.nycgovparks.org/parks/j-hood-wright-park/monuments"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9420363, 40.8471692] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Martin Luther King Jr. Bust",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-96.5835304, 39.1885896] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Growth",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9389456, 40.8011976] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "George M. Cohan",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9851462, 40.7587593] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Juan Pablo Duarte",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.005459, 40.7226058] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koreatown",
+        "tourism": "yes",
+        "description": "nan",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9865157, 40.7476419] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flatiron District",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9896534, 40.7410722] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Broken Kilometer (DIA)",
+        "tourism": "gallery",
+        "description": "Work of art by Walter De Maria.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0021462, 40.7240871] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Powers Lowenfels Gallery",
+        "tourism": "gallery",
+        "description": "Explore the creativity and imagination of local and international artists through captivating exhibitions and thought-provoking displays",
+        "opening_hours": "Th-Su 12:00-18:00",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.990434, 40.7219487] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krause Gallery",
+        "tourism": "gallery",
+        "description": "Explore the creativity and imagination of local and international artists through captivating exhibitions and thought-provoking displays",
+        "opening_hours": "We-Su 12:00-18:00",
+        "website": "https://krausegallery.com"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9892808, 40.720719] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Andrew Kreps Gallery",
+        "tourism": "gallery",
+        "description": "Explore the creativity and imagination of local and international artists through captivating exhibitions and thought-provoking displays",
+        "opening_hours": "Tu-Sa 10:00-18:00",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0020133, 40.7181761] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Art Projects International",
+        "tourism": "gallery",
+        "description": "Explore the creativity and imagination of local and international artists through captivating exhibitions and thought-provoking displays",
+        "opening_hours": "Th-Sa 11:00-18:00",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0098159, 40.7226366] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "100 Gates Project",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "nan",
+        "website": "https://100gates.nyc"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9908729, 40.7165969] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Magenta Plains",
+        "tourism": "gallery",
+        "description": "Explore the creativity and imagination of local and international artists through captivating exhibitions and thought-provoking displays",
+        "opening_hours": "We-Su 11:00-18:00",
+        "website": "http://www.magentaplains.com"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9904291, 40.7185164] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The EVAC",
+        "tourism": "gallery",
+        "description": "Explore the creativity and imagination of local and international artists through captivating exhibitions and thought-provoking displays",
+        "opening_hours": "nan",
+        "website": "https://theevac.org"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9833365, 40.7306017] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Francis P. Duffy",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9849891, 40.7590569] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fotografiska",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.986775, 40.7392696] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand Lodge of Free and Accepted Masons",
+        "tourism": "yes",
+        "description": "nan",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9919229, 40.7435779] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schwartz Luggage Storage",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9945593, 40.7552441] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Art Clinic",
+        "tourism": "gallery",
+        "description": "Art Studio operated by NYC street artist #SacSix that provided crayons and coloring books during the height of the pandemic",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9831736, 40.7187633] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Café Carlyle",
+        "tourism": "yes",
+        "description": "nan",
+        "opening_hours": "nan",
+        "website": "https://www.rosewoodhotels.com/en/the-carlyle-new-york/dining/cafe-carlyle"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9629901, 40.7742485] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alexander Hamilton",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://www.nycgovparks.org/parks/central-park/monuments/662"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.964572, 40.781033] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balto",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://www.nycgovparks.org/parks/central-park/monuments/75"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9710098, 40.7699607] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "7th Regiment Memorial",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://www.nycgovparks.org/parks/central-park/monuments/1427"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9764403, 40.7737621] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Supermud Pottery Studio, Gallery & Gift Shop",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9676966, 40.8005515] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La casa de los Tenenbaums",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9465643, 40.8237942] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City Sightseeing New York",
+        "tourism": "sightseeing",
+        "description": "nan",
+        "opening_hours": "nan",
+        "website": "https://www.citysightseeingnewyork.com/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0038925, 40.759652] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Red Cube",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0103932, 40.7089149] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skyscraper Museum",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "Th-Sa 12:00-18:00",
+        "website": "https://skyscraper.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0177051, 40.7057229] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hall des Lumières",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "10:00-18:00; Tu off; Th-Sa 10:00-22:00",
+        "website": "https://www.halldeslumieres.com/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.005072, 40.7137437] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hashimoto Contemporary",
+        "tourism": "gallery",
+        "description": "Explore the creativity and imagination of local and international artists through captivating exhibitions and thought-provoking displays",
+        "opening_hours": "nan",
+        "website": "http://hashimotocontemporary.com/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9826995, 40.7184451] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Street Seaport Museum",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "We-Su 11:00-17:00",
+        "website": "https://southstreetseaportmuseum.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0036758, 40.706628] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gallery Rene Mele",
+        "tourism": "gallery",
+        "description": "GALLERY RENE MELE is a New York based art services consultant specializing in fine art resale and referrals as well as public art exhibitions.",
+        "opening_hours": "nan",
+        "website": "http://renemele.wix.com/galleryrenemele"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9633859, 40.7733329] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alexander von Humboldt",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://www.nycgovparks.org/parks/central-park/monuments/1637"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9732913, 40.7794692] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Albert Bertel Thorvaldsen",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://www.nycgovparks.org/parks/central-park/monuments/1543"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9559997, 40.7886205] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Daniel Webster",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://www.nycgovparks.org/parks/central-park/monuments/1692"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.974118, 40.7747533] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Johann Christoph Friedrich Von Schiller",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://www.nycgovparks.org/parks/central-park/monuments/1638"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9717355, 40.7731728] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "John Purroy Mitchel",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://www.centralparknyc.org/locations/john-purroy-mitchel"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9592113, 40.7843754] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "José Martí",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://www.nycgovparks.org/parks/central-park/monuments/982"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9760662, 40.7660454] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "José de San Martín",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://www.nycgovparks.org/parks/central-park/monuments/1395"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9766301, 40.7660429] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "King Jagiello Monument",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://www.centralparknyc.org/locations/king-jagiello"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9666796, 40.7789243] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ludwig van Beethoven",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://www.nycgovparks.org/parks/central-park/monuments/1634"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9718893, 40.7728773] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Simón Bolívar",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://www.nycgovparks.org/parks/central-park/monuments/132"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.975779, 40.7657085] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "America's Response Monument",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0140533, 40.7104591] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Houdini Museum of New York",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "nan",
+        "website": "http://www.houdinimuseumny.com/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9906463, 40.7502679] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pier 32",
+        "tourism": "viewpoint",
+        "description": "nan",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0118605, 40.7248651] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Twister",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0119121, 40.7241835] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Offshoot",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0121608, 40.7228631] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "American Folk Art Museum",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "nan",
+        "website": "http://www.folkartmuseum.org"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9815958, 40.7732296] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Time Landscape",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9994536, 40.7270859] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delacorte Musical Clock",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "https://www.nycgovparks.org/parks/central-park/monuments/378"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9711748, 40.7681147] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Children's Museum of the Arts",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "nan",
+        "website": "https://cmany.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0081354, 40.7275353] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Group of Bears",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://www.centralparknyc.org/locations/group-of-bears"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9639416, 40.7774949] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Joie de Vivre",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0109293, 40.7089672] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Non-Violence",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9676307, 40.7506595] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alamo",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9910185, 40.7298846] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manhattan Area Museum",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-111.3331661, 45.8560206] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tropical Zone",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9725255, 40.7676311] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le Carrousel",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "https://bryantpark.org/activities/le-carrousel"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9838795, 40.7534287] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Museum at FIT",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "Tu-Fr 12:00-20:00; Sa 10:00-17:00",
+        "website": "http://www.fitnyc.edu/museum.asp"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9941473, 40.7466544] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MANHATTAN",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-96.5628212, 39.1924605] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coenties Ship",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0105215, 40.7034838] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Two",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0067978, 40.7077153] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Friends Building",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0052999, 40.7323594] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alexander Hamilton",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9617763, 40.8067133] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thomas Moore",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://www.nycgovparks.org/parks/central-park/monuments/1056"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.973245, 40.765928] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Victor Herbert",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://www.nycgovparks.org/parks/central-park/monuments/707"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9722858, 40.7727282] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hans Christian Andersen",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://www.nycgovparks.org/parks/central-park/monuments/36"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9677251, 40.774479] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Pilgrim",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://www.nycgovparks.org/parks/central-park/monuments/1184"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9684393, 40.7731439] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Curl",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "http://www.wikicu.com/Curl"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9615238, 40.8086544] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Trust for Governors Island",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "nan",
+        "website": "https://www.govisland.com/about/the-trust-for-governors-island"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0159547, 40.6927237] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "One World Observatory",
+        "tourism": "viewpoint",
+        "description": "nan",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0130438, 40.712949] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "5 in 1, 1973-74",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "http://tonyrosenthal.com/5IN1.htm"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0029361, 40.7127003] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CitySights NY",
+        "tourism": "sightseeing",
+        "description": "nan",
+        "opening_hours": "nan",
+        "website": "https://www.citysightsny.com/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.988436, 40.7564416] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Museum of Sex",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "Mo-Th, Su 10:30-22:00; Fr, Sa 10:30-23:00",
+        "website": "https://www.museumofsex.com/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9873576, 40.7440374] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Listen",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9780253, 40.7628768] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rockefeller Center",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9788005, 40.7588447] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chelsea Market",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su 08:00-20:00",
+        "website": "http://chelseamarket.com/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0069958, 40.7429236] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Understanding",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0033531, 40.6938222] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "National Museum of Mathematics",
+        "tourism": "museum",
+        "description": "Award winning museum that highlights the role of mathematics in illuminating the patterns and structures all around us. Its dynamic exhibits, gallery, and programs are designed to stimulate inquiry, spark curiosity, and reveal the wonders of mathematics.",
+        "opening_hours": "Mo-Su 10:00-17:00",
+        "website": "https://momath.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9873437, 40.7432428] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samuel F. B. Morse",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://www.centralparknyc.org/locations/samuel-f-b-morse"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.967435, 40.7724831] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West side highway access",
+        "tourism": "viewpoint",
+        "description": "nan",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9753221, 40.7991902] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Romeo and Juliet",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://www.centralparknyc.org/locations/romeo-and-juliet"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9687205, 40.7804752] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Tempest",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "https://www.centralparknyc.org/locations/the-tempest"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9686451, 40.7804476] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Liz Christy Garden",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9921517, 40.724241] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salmagundi Club",
+        "tourism": "gallery",
+        "description": "Explore the creativity and imagination of local and international artists through captivating exhibitions and thought-provoking displays",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9945529, 40.7343016] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colonnade row",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9924535, 40.72928] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Couv Led Zepp 5e album",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9850116, 40.7273461] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Italian American Museum",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "nan",
+        "website": "http://italianamericanmuseum.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9974606, 40.7192537] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sightseeing Pass, LLC",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9875915, 40.7608186] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chinatown",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9984718, 40.7156257] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hope",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9821345, 40.7629651] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gladstone Gallery",
+        "tourism": "gallery",
+        "description": "Explore the creativity and imagination of local and international artists through captivating exhibitions and thought-provoking displays",
+        "opening_hours": "Tu-sa 10:00-18:00",
+        "website": "https://gladstonegallery.com"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.004588, 40.7489761] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "John Ericsson",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0145339, 40.7036281] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Immigrants Monument",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0163913, 40.7030984] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Group of Four Trees",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0089367, 40.7075343] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sunken Garden",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0092648, 40.7075476] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cocktail Kingdom",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9907173, 40.7436081] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cortlandt Alley",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0023028, 40.7177393] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Morgan Library & Museum",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "Tu-Su 10:00-17:30",
+        "website": "https://www.themorgan.org/"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9814793, 40.7491907] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\"Curry hill\"",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9824692, 40.7426273] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greenwich Village",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0028172, 40.7335844] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gagosian",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "Tu-Sa 10:00-18:00",
+        "website": "https://gagosian.com"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0059445, 40.7494423] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Met Cloisters",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "Th-Tu 10:00-16:30",
+        "website": "https://www.metmuseum.org/visit/plan-your-visit/met-cloisters"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9319228, 40.8648684] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Museum of Chinese in America",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "Tu, We, Fr-Su 11:00-18:00; Th 11:00-21:00",
+        "website": "https://www.mocanyc.org"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9990481, 40.7194172] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "American Icon",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0035301, 40.7172271] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ICP International Center of Photography Museum",
+        "tourism": "museum",
+        "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+        "opening_hours": "Tu-We, Fr-Su 10:00-18:00; Th 09:00-21:00",
+        "website": "https://www.icp.org/facilities/museum"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9933858, 40.7230882] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The River Project Wetlab",
+        "tourism": "aquarium",
+        "description": "nan",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0135288, 40.7284564] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Voltz Clarke Gallery",
+        "tourism": "gallery",
+        "description": "Explore the creativity and imagination of local and international artists through captivating exhibitions and thought-provoking displays",
+        "opening_hours": "Mo-Fr 10:00-18:00; Sa 12:00-17:00||Su \"by appointment\"",
+        "website": "https://voltzclarke.com"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.9920403, 40.7220357] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fearless Girl",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.0107995, 40.7068167] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rachel Uffner",
+        "tourism": "gallery",
+        "description": "Explore the creativity and imagination of local and international artists through captivating exhibitions and thought-provoking displays",
+        "opening_hours": "nan",
+        "website": "nan"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.984974, 40.7209311] }
+    }
+  ]
+}

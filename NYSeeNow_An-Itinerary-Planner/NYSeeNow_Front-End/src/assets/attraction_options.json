@@ -1,0 +1,10 @@
+[
+  { "id": 1, "label": "Attractions", "types": ["attraction", "yes"] },
+  { "id": 2, "label": "Museums", "types": ["museum"] },
+  { "id": 3, "label": "Artworks", "types": ["artwork"] },
+  { "id": 5, "label": "Galleries", "types": ["gallery"] },
+  { "id": 6, "label": "Sight Seeing", "types": ["sightseeing"] },
+  { "id": 7, "label": "Aquariums", "types": ["aquarium"] },
+  { "id": 8, "label": "Campsites", "types": ["camp_site"] },
+  { "id": 9, "label": "Viewpoints", "types": ["view_point"] }
+]

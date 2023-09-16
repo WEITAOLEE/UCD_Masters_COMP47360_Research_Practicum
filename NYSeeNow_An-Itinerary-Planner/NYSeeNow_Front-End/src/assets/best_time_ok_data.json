@@ -1,0 +1,1178 @@
+[
+  {
+    "Venue Name": "The New York Stock Exchange (NYSE)",
+    "Venue Address": "11 Wall St New York, NY 10005 United States",
+    "Venue Coordinates": "40.7069 -74.0113",
+    "Venue Types": "stock_broker, financial_institution, tourist_attraction",
+    "Average Dwell Time": 20
+  },
+  {
+    "Venue Name": "Bryant Park",
+    "Venue Address": "New York, NY 10018 United States",
+    "Venue Coordinates": "40.7536 -73.9832",
+    "Venue Types": "park, tourist_attraction",
+    "Average Dwell Time": 30
+  },
+  {
+    "Venue Name": "Central Park Carousel",
+    "Venue Address": "1802 E 65th St New York, NY 10065 United States",
+    "Venue Coordinates": "40.7699 -73.9753",
+    "Venue Types": "amusement_park_ride, historical_landmark, tourist_attraction",
+    "Average Dwell Time": 20
+  },
+  {
+    "Venue Name": "Empire State Building",
+    "Venue Address": "20 W 34th St. New York, NY 10001 United States",
+    "Venue Coordinates": "40.7484 -73.9857",
+    "Venue Types": "tourist_attraction, historical_landmark, historical_place_museum",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Chelsea Market",
+    "Venue Address": "75 9th Ave New York, NY 10011 United States",
+    "Venue Coordinates": "40.7424 -74.0061",
+    "Venue Types": "market",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "New-York Historical Society",
+    "Venue Address": "170 Central Park West New York, NY 10024 United States",
+    "Venue Coordinates": "40.7793 -73.9739",
+    "Venue Types": "museum, art_museum, historical_society, history_museum, library, local_history_museum, tourist_attraction",
+    "Average Dwell Time": 75
+  },
+  {
+    "Venue Name": "The Cathedral Church of St. John the Divine",
+    "Venue Address": "1047 Amsterdam Ave New York, NY 10025 United States",
+    "Venue Coordinates": "40.8038 -73.9619",
+    "Venue Types": "episcopal_church, cathedral, church, tourist_attraction",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "The Met Cloisters",
+    "Venue Address": "99 Margaret Corbin Dr New York, NY 10040 United States",
+    "Venue Coordinates": "40.8649 -73.9317",
+    "Venue Types": "art_museum, museum, tourist_attraction",
+    "Average Dwell Time": 60
+  },
+  {
+    "Venue Name": "Marianna Kistler Beach Museum of Art",
+    "Venue Address": "701 Beach Ln Manhattan, KS 66506 United States",
+    "Venue Coordinates": "39.1868 -96.5788",
+    "Venue Types": "art_museum, tourist_attraction",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Sunset Zoo",
+    "Venue Address": "2333 Oak St Manhattan, KS 66502 United States",
+    "Venue Coordinates": "39.1773 -96.5951",
+    "Venue Types": "zoo, after_school_program, event_venue, park, tourist_attraction",
+    "Average Dwell Time": 90
+  },
+  {
+    "Venue Name": "Flint Hills Discovery Center",
+    "Venue Address": "315 S 3rd St Manhattan, KS 66502 United States",
+    "Venue Coordinates": "39.1766 -96.56",
+    "Venue Types": "museum, childrens_museum, event_venue, heritage_museum, history_museum, learning_center, science_museum",
+    "Average Dwell Time": 60
+  },
+  {
+    "Venue Name": "The Paley Center For Media NYC",
+    "Venue Address": "25 W 52nd St New York, NY 10019 United States",
+    "Venue Coordinates": "40.7606 -73.9776",
+    "Venue Types": "museum, archive, media_company, non_profit_organization, tourist_attraction",
+    "Average Dwell Time": 90
+  },
+  {
+    "Venue Name": "Solomon R. Guggenheim Museum",
+    "Venue Address": "1071 5th Ave New York, NY 10128 United States",
+    "Venue Coordinates": "40.783 -73.959",
+    "Venue Types": "modern_art_museum, art_museum, museum, tourist_attraction",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "The Ukrainian Museum",
+    "Venue Address": "222 E 6th St New York, NY 10003 United States",
+    "Venue Coordinates": "40.7277 -73.9898",
+    "Venue Types": "art_museum",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Eden Gallery",
+    "Venue Address": "470 Broome St New York, NY 10013 United States",
+    "Venue Coordinates": "40.7227 -74.0014",
+    "Venue Types": "art_gallery, art_center, art_dealer",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "New Museum",
+    "Venue Address": "235 Bowery New York, NY 10002 United States",
+    "Venue Coordinates": "40.7223 -73.9929",
+    "Venue Types": "art_museum, tourist_attraction",
+    "Average Dwell Time": 60
+  },
+  {
+    "Venue Name": "The Drawing Center",
+    "Venue Address": "35 Wooster St New York, NY 10013 United States",
+    "Venue Coordinates": "40.7224 -74.0029",
+    "Venue Types": "museum, non_profit_organization, tourist_attraction",
+    "Average Dwell Time": 30
+  },
+  {
+    "Venue Name": "New York City Fire Museum",
+    "Venue Address": "278 Spring St New York, NY 10013 United States",
+    "Venue Coordinates": "40.7256 -74.0069",
+    "Venue Types": "museum, event_venue, gift_shop, history_museum, tourist_attraction",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Museum at Eldridge Street",
+    "Venue Address": "12 Eldridge St New York, NY 10002 United States",
+    "Venue Coordinates": "40.7147 -73.9936",
+    "Venue Types": "history_museum, heritage_museum, museum, tourist_attraction",
+    "Average Dwell Time": 45
+  },
+  {
+    "Venue Name": "New York Public Library - Stephen A. Schwarzman Building",
+    "Venue Address": "476 5th Ave New York, NY 10018 United States",
+    "Venue Coordinates": "40.7532 -73.9823",
+    "Venue Types": "public_library",
+    "Average Dwell Time": 30
+  },
+  {
+    "Venue Name": "Vanderbilt YMCA",
+    "Venue Address": "224 E 47th St New York, NY 10017 United States",
+    "Venue Coordinates": "40.7533 -73.9711",
+    "Venue Types": "fitness_center, after_school_program, basketball_court, camp, day_care_center, gym, hostel, non_profit_organization, swimming_pool",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Japan Society",
+    "Venue Address": "333 E 47th St New York, NY 10017 United States",
+    "Venue Coordinates": "40.7525 -73.9683",
+    "Venue Types": "cultural_center, association_or_organization, event_venue, japanese_language_instructor, language_school, museum, non_profit_organization, tourist_attraction",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "The Jewish Museum",
+    "Venue Address": "1109 5th Ave & E 92nd St New York, 10128 United States",
+    "Venue Coordinates": "40.7853 -73.9574",
+    "Venue Types": "art_museum, gift_shop, museum, performing_arts_theater",
+    "Average Dwell Time": 60
+  },
+  {
+    "Venue Name": "The San Remo",
+    "Venue Address": "145-146 Central Park West New York, NY 10023 United States",
+    "Venue Coordinates": "40.7778 -73.975",
+    "Venue Types": "historical_landmark",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Children's Museum Of Manhattan",
+    "Venue Address": "212 W 83rd St New York, NY 10024 United States",
+    "Venue Coordinates": "40.7859 -73.9773",
+    "Venue Types": "childrens_museum, museum, tourist_attraction",
+    "Average Dwell Time": 75
+  },
+  {
+    "Venue Name": "Nicholas Roerich Museum",
+    "Venue Address": "319 W 107th St New York, NY 10025 United States",
+    "Venue Coordinates": "40.8029 -73.969",
+    "Venue Types": "museum, tourist_attraction",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Museum of the City of New York",
+    "Venue Address": "1220 5th Ave New York, NY 10029 United States",
+    "Venue Coordinates": "40.7925 -73.9519",
+    "Venue Types": "local_history_museum, history_museum, museum, tourist_attraction",
+    "Average Dwell Time": 75
+  },
+  {
+    "Venue Name": "Hamilton Grange National Memorial",
+    "Venue Address": "414 W 141st St New York, NY 10031 United States",
+    "Venue Coordinates": "40.8214 -73.9473",
+    "Venue Types": "historic_site, historical_landmark, museum, tourist_attraction",
+    "Average Dwell Time": 30
+  },
+  {
+    "Venue Name": "St. Paul's Chapel",
+    "Venue Address": "209 Broadway New York, NY 10007 United States",
+    "Venue Coordinates": "40.7113 -74.0092",
+    "Venue Types": "church, episcopal_church, place_of_worship, tourist_attraction",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "9/11 Memorial & Museum",
+    "Venue Address": "180 Greenwich St New York, NY 10007 United States",
+    "Venue Coordinates": "40.7116 -74.0133",
+    "Venue Types": "historical_place_museum, memorial_park, museum",
+    "Average Dwell Time": 75
+  },
+  {
+    "Venue Name": "Blackwell House",
+    "Venue Address": "500 Main St New York, NY 10044 United States",
+    "Venue Coordinates": "40.7604 -73.9511",
+    "Venue Types": "historical_landmark",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Whitney Museum of American Art",
+    "Venue Address": "99 Gansevoort St New York, NY 10014 United States",
+    "Venue Coordinates": "40.7396 -74.0089",
+    "Venue Types": "modern_art_museum, art_museum, museum, tourist_attraction",
+    "Average Dwell Time": 60
+  },
+  {
+    "Venue Name": "The Stonewall Inn",
+    "Venue Address": "53 Christopher St New York, NY 10014 United States",
+    "Venue Coordinates": "40.7338 -74.0022",
+    "Venue Types": "gay_bar, bar, tourist_attraction",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Paula Cooper Gallery",
+    "Venue Address": "521 W 21st St New York, NY 10011 United States",
+    "Venue Coordinates": "40.7472 -74.0064",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Fraunces Tavern Museum",
+    "Venue Address": "54 Pearl St 2nd floor New York, NY 10004 United States",
+    "Venue Coordinates": "40.7034 -74.0113",
+    "Venue Types": "museum, historical_landmark, history_museum, local_history_museum, tourist_attraction",
+    "Average Dwell Time": 45
+  },
+  {
+    "Venue Name": "American Museum of Natural History",
+    "Venue Address": "200 Central Park West New York, NY 10024 United States",
+    "Venue Coordinates": "40.7813 -73.974",
+    "Venue Types": "natural_history_museum, historical_landmark, planetarium, research_institute, science_museum, tourist_attraction",
+    "Average Dwell Time": 105
+  },
+  {
+    "Venue Name": "Madame Tussauds New York",
+    "Venue Address": "234 W 42nd St New York, NY 10036 United States",
+    "Venue Coordinates": "40.7564 -73.9888",
+    "Venue Types": "wax_museum, tourist_attraction",
+    "Average Dwell Time": 75
+  },
+  {
+    "Venue Name": "Rockefeller Center",
+    "Venue Address": "45 Rockefeller Plaza New York, NY 10111 United States",
+    "Venue Coordinates": "40.7587 -73.9787",
+    "Venue Types": "historical_landmark, tourist_attraction",
+    "Average Dwell Time": 45
+  },
+  {
+    "Venue Name": "Poster House",
+    "Venue Address": "119 W 23rd St New York, NY 10011 United States",
+    "Venue Coordinates": "40.7436 -73.9933",
+    "Venue Types": "museum, art_museum",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Rubin Museum of Art",
+    "Venue Address": "150 W 17th St New York, NY 10011 United States",
+    "Venue Coordinates": "40.7401 -73.9977",
+    "Venue Types": "art_museum, cafe, performing_arts_theater, store",
+    "Average Dwell Time": 75
+  },
+  {
+    "Venue Name": "Andrew Kreps Gallery",
+    "Venue Address": "22 Cortlandt Alley New York, NY 10013 United States",
+    "Venue Coordinates": "40.7182 -74.002",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Fotografiska Museum NYC",
+    "Venue Address": "281 Park Ave S New York, NY 10010 United States",
+    "Venue Coordinates": "40.7392 -73.9867",
+    "Venue Types": "museum, tourist_attraction",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Refinery Rooftop",
+    "Venue Address": "63 W 38th St New York, NY 10018 United States",
+    "Venue Coordinates": "40.7523 -73.9854",
+    "Venue Types": "restaurant",
+    "Average Dwell Time": 90
+  },
+  {
+    "Venue Name": "Café Carlyle",
+    "Venue Address": "35 E 76th St New York, NY 10075 United States",
+    "Venue Coordinates": "40.7743 -73.9631",
+    "Venue Types": "cafe, american_restaurant, bar, french_restaurant, jazz_club",
+    "Average Dwell Time": 105
+  },
+  {
+    "Venue Name": "Supermud Pottery",
+    "Venue Address": "2744 Broadway New York, NY 10025 United States",
+    "Venue Coordinates": "40.8006 -73.9676",
+    "Venue Types": "pottery_store",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "City Sightseeing New York",
+    "Venue Address": "455 12th Ave New York, NY 10018 United States",
+    "Venue Coordinates": "40.7597 -74.0003",
+    "Venue Types": "sightseeing_tour_agency, boat_tour_agency, cruise_line, tour_operator, tourist_attraction",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "The Skyscraper Museum",
+    "Venue Address": "39 Battery Pl New York, NY 10280 United States",
+    "Venue Coordinates": "40.7057 -74.0177",
+    "Venue Types": "museum, history_museum, tourist_attraction",
+    "Average Dwell Time": 45
+  },
+  {
+    "Venue Name": "Hall des Lumières",
+    "Venue Address": "49 Chambers St New York, NY 10007 United States",
+    "Venue Coordinates": "40.714 -74.0051",
+    "Venue Types": "art_museum",
+    "Average Dwell Time": 45
+  },
+  {
+    "Venue Name": "South Street Seaport Museum",
+    "Venue Address": "12 Fulton St New York, NY 10038 United States",
+    "Venue Coordinates": "40.7065 -74.0036",
+    "Venue Types": "maritime_museum, cultural_center, education_center, event_venue, historical_landmark, historical_place_museum, history_museum, tourist_attraction",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Little Owl",
+    "Venue Address": "90 Bedford St New York, NY 10014 United States",
+    "Venue Coordinates": "40.7324 -74.0053",
+    "Venue Types": "new_us_american_restaurant, american_restaurant, mediterranean_restaurant",
+    "Average Dwell Time": 90
+  },
+  {
+    "Venue Name": "Museum of Sex",
+    "Venue Address": "233 5th Ave New York, NY 10016 United States",
+    "Venue Coordinates": "40.744 -73.9873",
+    "Venue Types": "museum, adult_entertainment_store, bar, event_venue, exhibit, gift_shop, tourist_attraction",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "National Museum of Mathematics",
+    "Venue Address": "11 E 26th St New York, NY 10010 United States",
+    "Venue Coordinates": "40.7435 -73.9871",
+    "Venue Types": "national_museum, museum, tourist_attraction",
+    "Average Dwell Time": 75
+  },
+  {
+    "Venue Name": "Gladstone Gallery",
+    "Venue Address": "515 W 24th St New York, NY 10011 United States",
+    "Venue Coordinates": "40.7489 -74.0045",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "The Morgan Library & Museum",
+    "Venue Address": "225 Madison Ave New York, NY 10016 United States",
+    "Venue Coordinates": "40.7492 -73.9814",
+    "Venue Types": "museum, art_museum, library, tourist_attraction",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Rachel Uffner",
+    "Venue Address": "170 Suffolk St New York, NY 10002 United States",
+    "Venue Coordinates": "40.721 -73.985",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Hayden Planetarium",
+    "Venue Address": "200 Central Park West New York, NY 10024 United States",
+    "Venue Coordinates": "40.7813 -73.9738",
+    "Venue Types": "planetarium, museum_of_space_history, tourist_attraction",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Michael Altman Fine Art & Advisory Services",
+    "Venue Address": "33 E 68th St New York, NY 10065 United States",
+    "Venue Coordinates": "40.7691 -73.9669",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "WESTWOOD GALLERY NYC",
+    "Venue Address": "262 Bowery New York, NY 10012 United States",
+    "Venue Coordinates": "40.7234 -73.9933",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Eric Firestone Gallery",
+    "Venue Address": "40 Great Jones St New York, NY 10012 United States",
+    "Venue Coordinates": "40.727 -73.9927",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Color Factory - NYC Interactive Art Museum",
+    "Venue Address": "251 Spring St New York, NY 10013 United States",
+    "Venue Coordinates": "40.7258 -74.0053",
+    "Venue Types": "art_museum, amusement_center, amusement_park, children_amusement_center, childrens_museum, event_venue, exhibit, museum, theme_park, tourist_attraction",
+    "Average Dwell Time": 60
+  },
+  {
+    "Venue Name": "PERROTIN NEW YORK",
+    "Venue Address": "130 Orchard St New York, NY 10002 United States",
+    "Venue Coordinates": "40.7196 -73.9893",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 30
+  },
+  {
+    "Venue Name": "David Zwirner",
+    "Venue Address": "525 W 19th St New York, NY 10011 United States",
+    "Venue Coordinates": "40.7459 -74.007",
+    "Venue Types": "art_gallery, museum, tourist_attraction",
+    "Average Dwell Time": 45
+  },
+  {
+    "Venue Name": "La MaMa Galleria",
+    "Venue Address": "47 Great Jones St New York, NY 10012 United States",
+    "Venue Coordinates": "40.7265 -73.9926",
+    "Venue Types": "art_gallery, non_profit_organization",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Society of Illustrators",
+    "Venue Address": "128 E 63rd St New York, NY 10065 United States",
+    "Venue Coordinates": "40.7648 -73.9668",
+    "Venue Types": "museum, art_museum, non_profit_organization, tourist_attraction",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Anya and Andrew Shiva Gallery",
+    "Venue Address": "11th Ave New York, NY 10019 United States",
+    "Venue Coordinates": "40.7714 -73.9904",
+    "Venue Types": "art_museum",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "303 Gallery",
+    "Venue Address": "555 W 21st St New York, NY 10011 United States",
+    "Venue Coordinates": "40.7475 -74.0074",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "AMANITA",
+    "Venue Address": "313 Bowery New York, NY 10003 United States",
+    "Venue Coordinates": "40.7251 -73.9919",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "The Malcolm X & Dr. Betty Shabazz Memorial and Educational Center",
+    "Venue Address": "Lasker Biomedical Research Building 3940 Broadway New York, NY 10032 United States",
+    "Venue Coordinates": "40.8393 -73.9407",
+    "Venue Types": "cultural_center, museum, tourist_attraction",
+    "Average Dwell Time": 105
+  },
+  {
+    "Venue Name": "Leslie-Lohman Museum of Art",
+    "Venue Address": "26 Wooster St New York, NY 10013 United States",
+    "Venue Coordinates": "40.7217 -74.0031",
+    "Venue Types": "art_museum, art_gallery, arts_organization, gay_and_lesbian_organization, museum",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Miguel Abreu Gallery",
+    "Venue Address": "88 Eldridge Street & 36 Orchard St New York, NY 10002 United States",
+    "Venue Coordinates": "40.7172 -73.9922",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Equinox Hudson Yards",
+    "Venue Address": "35 Hudson Yards 32 Hudson Yards New York, NY 10001 United States",
+    "Venue Coordinates": "40.7546 -74.0022",
+    "Venue Types": "gym, sports_club",
+    "Average Dwell Time": 105
+  },
+  {
+    "Venue Name": "Pace Gallery",
+    "Venue Address": "540 W 25th St New York, NY 10001 United States",
+    "Venue Coordinates": "40.7496 -74.005",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 45
+  },
+  {
+    "Venue Name": "The New York Earth Room",
+    "Venue Address": "141 Wooster St New York, NY 10012 United States",
+    "Venue Coordinates": "40.726 -73.9999",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "The FRIENDS™ Experience: The One in New York City",
+    "Venue Address": "The Friends Experience 130 E 23rd St New York, NY 10010 United States",
+    "Venue Coordinates": "40.7394 -73.9852",
+    "Venue Types": "exhibit, museum",
+    "Average Dwell Time": 60
+  },
+  {
+    "Venue Name": "Jackie Robinson Museum",
+    "Venue Address": "75 Varick St New York, NY 10013 United States",
+    "Venue Coordinates": "40.7235 -74.0068",
+    "Venue Types": "museum",
+    "Average Dwell Time": 60
+  },
+  {
+    "Venue Name": "Frick Madison",
+    "Venue Address": "945 Madison Ave New York, NY 10021 United States",
+    "Venue Coordinates": "40.7735 -73.964",
+    "Venue Types": "art_museum",
+    "Average Dwell Time": 60
+  },
+  {
+    "Venue Name": "Nohra Haime Gallery",
+    "Venue Address": "500 W 21st St New York, NY 10011 United States",
+    "Venue Coordinates": "40.7463 -74.0055",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Mitchell-Innes & Nash",
+    "Venue Address": "534 W 26th St New York, NY 10001 United States",
+    "Venue Coordinates": "40.7502 -74.0044",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Galerie Lelong & Co.",
+    "Venue Address": "528 W 26th St New York, NY 10001 United States",
+    "Venue Coordinates": "40.7501 -74.0044",
+    "Venue Types": "art_gallery, tourist_attraction",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Berry Campbell",
+    "Venue Address": "524 W 26th St New York, NY 10001 United States",
+    "Venue Coordinates": "40.7501 -74.0041",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Caelum Gallery",
+    "Venue Address": "526 W 26th St #315 New York, NY 10001 United States",
+    "Venue Coordinates": "40.7498 -74.0038",
+    "Venue Types": "art_gallery, event_venue",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Greene Naftali",
+    "Venue Address": "508 W 26th St New York, NY 10001 United States",
+    "Venue Coordinates": "40.7498 -74.0037",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Marlborough",
+    "Venue Address": "545 W 25th St New York, NY 10001 United States",
+    "Venue Coordinates": "40.7498 -74.005",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Gallery Henoch",
+    "Venue Address": "555 W 25th St New York, NY 10001 United States",
+    "Venue Coordinates": "40.75 -74.0055",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Petzel Gallery",
+    "Venue Address": "520 W 25th St New York, NY 10001 United States",
+    "Venue Coordinates": "40.7492 -74.0044",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Marianne Boesky Gallery",
+    "Venue Address": "507 W 24th St New York, NY 10011 United States",
+    "Venue Coordinates": "40.7489 -74.0043",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Print Center New York",
+    "Venue Address": "535 W 24th St New York, NY 10011 United States",
+    "Venue Coordinates": "40.7492 -74.0053",
+    "Venue Types": "museum, art_gallery, arts_organization, non_profit_organization, tourist_attraction",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "C24 Gallery",
+    "Venue Address": "560 W 24th St New York, NY 10011 United States",
+    "Venue Coordinates": "40.7492 -74.0062",
+    "Venue Types": "art_gallery, museum, tourist_attraction",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Lisson Gallery",
+    "Venue Address": "508 W 24th St New York, NY 10011 United States",
+    "Venue Coordinates": "40.7485 -74.0046",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Fremin Gallery",
+    "Venue Address": "520 W 23rd St New York, NY 10011 United States",
+    "Venue Coordinates": "40.7479 -74.0051",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Malin Gallery",
+    "Venue Address": "515 West 29th St Street Level Entrance New York, NY 10001 United States",
+    "Venue Coordinates": "40.752 -74.0022",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Bowery Gallery",
+    "Venue Address": "547 W 27th St #508 New York, NY 10001 United States",
+    "Venue Coordinates": "40.7513 -74.0044",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "The Painting Center",
+    "Venue Address": "547 W 27th St Suite 500, 5th Floor New York, NY 10001 United States",
+    "Venue Coordinates": "40.7513 -74.0043",
+    "Venue Types": "art_gallery, artist",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Kasmin Gallery",
+    "Venue Address": "509 W 27th St New York, NY 10001 United States",
+    "Venue Coordinates": "40.7507 -74.003",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Templon",
+    "Venue Address": "293 10th Ave New York, NY 10001 United States",
+    "Venue Coordinates": "40.7502 -74.0027",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Hollis Taggart",
+    "Venue Address": "521 W 26th St New York, NY 10001 United States",
+    "Venue Coordinates": "40.7502 -74.0037",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Friedman Benda",
+    "Venue Address": "515 W 26th St 1st Floor New York, NY 10001 United States",
+    "Venue Coordinates": "40.7501 -74.0035",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "RYAN LEE",
+    "Venue Address": "515 W 26th St floor 3 New York, NY 10001 United States",
+    "Venue Coordinates": "40.7501 -74.0036",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "HESSE FLATOW",
+    "Venue Address": "508 W 26th St # 5g New York, NY 10001 United States",
+    "Venue Coordinates": "40.7497 -74.0037",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Yancey Richardson",
+    "Venue Address": "525 W 22nd St New York, NY 10011 United States",
+    "Venue Coordinates": "40.7475 -74.0056",
+    "Venue Types": "art_gallery, museum",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "DC Moore Gallery",
+    "Venue Address": "535 W 22nd St 2nd Floor New York, NY 10011 United States",
+    "Venue Coordinates": "40.7478 -74.0061",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Dia Chelsea",
+    "Venue Address": "537 W 22nd St New York, NY 10011 United States",
+    "Venue Coordinates": "40.7478 -74.0063",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Hauser & Wirth",
+    "Venue Address": "542 W 22nd St New York, NY 10011 United States",
+    "Venue Coordinates": "40.7476 -74.0067",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 30
+  },
+  {
+    "Venue Name": "Harper's Chelsea",
+    "Venue Address": "534 W 22nd St New York, NY 10011 United States",
+    "Venue Coordinates": "40.7476 -74.0064",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Sikkema Jenkins & Co",
+    "Venue Address": "530 W 22nd St New York, NY 10011 United States",
+    "Venue Coordinates": "40.7475 -74.0061",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Nara Roesler New York",
+    "Venue Address": "511 W 21st St New York, NY 10011 United States",
+    "Venue Coordinates": "40.7468 -74.0057",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Tina Kim Gallery",
+    "Venue Address": "525 W 21st St New York, NY 10011 United States",
+    "Venue Coordinates": "40.747 -74.0062",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Tanya Bonakdar Gallery",
+    "Venue Address": "521 W 21st St #1 New York, NY 10011 United States",
+    "Venue Coordinates": "40.7471 -74.0062",
+    "Venue Types": "art_gallery, tourist_attraction",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Hales Gallery",
+    "Venue Address": "547 W 20th St New York, NY 10011 United States",
+    "Venue Coordinates": "40.7469 -74.0076",
+    "Venue Types": "art_gallery, artist",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Jack Shainman Gallery",
+    "Venue Address": "513 W 20th St New York, NY 10011 United States",
+    "Venue Coordinates": "40.7464 -74.0063",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "ACA Galleries",
+    "Venue Address": "529 W 20th St #5E New York, NY 10011 United States",
+    "Venue Coordinates": "40.7466 -74.0069",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "kurimanzutto New York",
+    "Venue Address": "520 W 20th St New York, NY 10011 United States",
+    "Venue Coordinates": "40.7463 -74.0069",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "David Kordansky Gallery",
+    "Venue Address": "520 W 20th St New York, NY 10011 United States",
+    "Venue Coordinates": "40.7462 -74.0069",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Michael Rosenfeld Gallery",
+    "Venue Address": "100 11th Ave New York, NY 10011 United States",
+    "Venue Coordinates": "40.7461 -74.0077",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Ethan Cohen Gallery",
+    "Venue Address": "251 W 19th St New York, NY 10011 United States",
+    "Venue Coordinates": "40.7426 -73.9991",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "The Metropolitan Museum of Art",
+    "Venue Address": "1000 5th Ave New York, NY 10028 United States",
+    "Venue Coordinates": "40.7794 -73.9632",
+    "Venue Types": "art_museum, arts_organization, museum, non_profit_organization, tourist_attraction",
+    "Average Dwell Time": 90
+  },
+  {
+    "Venue Name": "Serpentine Commons",
+    "Venue Address": "599 Van Duzer St Staten Island, NY 10304 United States",
+    "Venue Coordinates": "40.6253 -74.0848",
+    "Venue Types": "hiking_area",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Statue of Liberty",
+    "Venue Address": "New York, NY 10004 United States",
+    "Venue Coordinates": "40.6892 -74.0445",
+    "Venue Types": "historical_landmark, monument, tourist_attraction",
+    "Average Dwell Time": 60
+  },
+  {
+    "Venue Name": "The Rink At Rockefeller Center",
+    "Venue Address": "600 5th Avenue Rockefeller Center New York, NY 10020 United States",
+    "Venue Coordinates": "40.7587 -73.9784",
+    "Venue Types": "ice_skating_rink",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Ellis Island National Museum of Immigration",
+    "Venue Address": "Ellis Island Bridge Jersey City, NJ 10280 United States",
+    "Venue Coordinates": "40.6993 -74.0394",
+    "Venue Types": "museum",
+    "Average Dwell Time": 60
+  },
+  {
+    "Venue Name": "Museum of Arts and Design",
+    "Venue Address": "2 Columbus Cir New York, NY 10019 United States",
+    "Venue Coordinates": "40.7674 -73.9819",
+    "Venue Types": "art_museum, gift_shop, tourist_attraction",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Soho House New York",
+    "Venue Address": "29-35 9th Ave New York, NY 10014 United States",
+    "Venue Coordinates": "40.7406 -74.0059",
+    "Venue Types": "social_club, hotel",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Frying Pan New York",
+    "Venue Address": "207 12th Ave New York, NY 10001 United States",
+    "Venue Coordinates": "40.7523 -74.0095",
+    "Venue Types": "restaurant, bar_and_grill, fish_and_chips_restaurant, oyster_bar_restaurant, seafood_restaurant",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "The Dairy Visitor Center and Gift Shop",
+    "Venue Address": "E 65th St New York, NY 10065 United States",
+    "Venue Coordinates": "40.7691 -73.9737",
+    "Venue Types": "visitor_center",
+    "Average Dwell Time": 15
+  },
+  {
+    "Venue Name": "Grand Central Terminal",
+    "Venue Address": "89 E 42nd St New York, NY 10017 United States",
+    "Venue Coordinates": "40.7527 -73.9772",
+    "Venue Types": "train_station",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Asia Society and Museum",
+    "Venue Address": "725 Park Ave New York, NY 10021 United States",
+    "Venue Coordinates": "40.77 -73.9644",
+    "Venue Types": "museum, tourist_attraction",
+    "Average Dwell Time": 60
+  },
+  {
+    "Venue Name": "Morris-Jumel Mansion",
+    "Venue Address": "65 Jumel Terrace New York, NY 10032 United States",
+    "Venue Coordinates": "40.8345 -73.9386",
+    "Venue Types": "historical_place_museum, art_museum, non_profit_organization, tourist_attraction",
+    "Average Dwell Time": 45
+  },
+  {
+    "Venue Name": "Circle Line Sightseeing Cruises",
+    "Venue Address": "83 North River Piers West 43rd Street and 12th Ave New York, NY 10036 United States",
+    "Venue Coordinates": "40.7629 -74.0015",
+    "Venue Types": "boat_tour_agency, cruise_agency, sightseeing_tour_agency, tour_operator, tourist_attraction",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Charles A. Dana Discovery Center",
+    "Venue Address": "Central Park N New York, NY 10029 United States",
+    "Venue Coordinates": "40.7971 -73.9515",
+    "Venue Types": "visitor_center, fishing_club, tourist_attraction",
+    "Average Dwell Time": 57
+  },
+  {
+    "Venue Name": "Central Park Zoo",
+    "Venue Address": "East 64th Street New York, NY 10021 United States",
+    "Venue Coordinates": "40.7678 -73.9718",
+    "Venue Types": "zoo, tourist_attraction",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "National Museum of the American Indian",
+    "Venue Address": "1 Bowling Green New York, NY 10004 United States",
+    "Venue Coordinates": "40.704 -74.0137",
+    "Venue Types": "museum, tourist_attraction",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Yeshiva University Museum",
+    "Venue Address": "15 W 16th St New York, NY 10011 United States",
+    "Venue Coordinates": "40.738 -73.9938",
+    "Venue Types": "museum, tourist_attraction",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Tenement Museum",
+    "Venue Address": "103 Orchard St New York, NY 10002 United States",
+    "Venue Coordinates": "40.7188 -73.9901",
+    "Venue Types": "history_museum, museum, tourist_attraction",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Glen Span Arch",
+    "Venue Address": "W 102nd St New York, NY 10025 United States",
+    "Venue Coordinates": "40.7947 -73.9592",
+    "Venue Types": "bridge, historical_landmark, tourist_attraction",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Nan Xiang Xiao Long Bao-Manhattan",
+    "Venue Address": "24 W 33rd St New York, NY 10001 United States",
+    "Venue Coordinates": "40.7482 -73.9865",
+    "Venue Types": "restaurant",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Moynihan Train Hall",
+    "Venue Address": "350 W 33rd St New York, NY 10001 United States",
+    "Venue Coordinates": "40.7517 -73.9957",
+    "Venue Types": "train_station",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Crack Is Wack Playground",
+    "Venue Address": "E. 127 St., 2 Ave., and Harlem River Dr New York, NY 10035 United States",
+    "Venue Coordinates": "40.8041 -73.932",
+    "Venue Types": "playground, historical_landmark, tourist_attraction",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Huddlestone Arch",
+    "Venue Address": "Loch Walking Path & East Dr New York, NY 10026 United States",
+    "Venue Coordinates": "40.7958 -73.9557",
+    "Venue Types": "historical_landmark",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Jasper's Taphouse & Kitchen",
+    "Venue Address": "761 9th Ave New York, NY 10019 United States",
+    "Venue Coordinates": "40.7643 -73.9886",
+    "Venue Types": "american_restaurant, bar, bar_and_grill, beer_hall, restaurant, sports_bar",
+    "Average Dwell Time": 90
+  },
+  {
+    "Venue Name": "José Julián Martí Statue",
+    "Venue Address": "W 59th St & Center Drive New York, NY 10019 United States",
+    "Venue Coordinates": "40.7661 -73.9761",
+    "Venue Types": "sculpture",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "American Folk Art Museum",
+    "Venue Address": "2 Lincoln Square New York, NY 10023 United States",
+    "Venue Coordinates": "40.7732 -73.9815",
+    "Venue Types": "art_museum, tourist_attraction",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Delacorte Clock",
+    "Venue Address": "East 65th Street and 5th Ave New York, NY 10065 United States",
+    "Venue Coordinates": "40.7681 -73.9711",
+    "Venue Types": "tourist_attraction, scenic_spot, sculpture",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Nan Bei Ho",
+    "Venue Address": "212-22 48th Ave Bayside, NY 11364 United States",
+    "Venue Coordinates": "40.7553 -73.7685",
+    "Venue Types": "taiwanese_restaurant",
+    "Average Dwell Time": 40
+  },
+  {
+    "Venue Name": "Bryant Park Carousel",
+    "Venue Address": "35 W 40th St New York, NY 10018 United States",
+    "Venue Coordinates": "40.7534 -73.9839",
+    "Venue Types": "amusement_park_ride, childrens_party_service",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "The Museum at FIT",
+    "Venue Address": "227 W 27th St New York, NY 10001 United States",
+    "Venue Coordinates": "40.7464 -73.9944",
+    "Venue Types": "art_museum, museum, tourist_attraction",
+    "Average Dwell Time": 30
+  },
+  {
+    "Venue Name": "One World Observatory",
+    "Venue Address": "117 West St New York, NY 10007 United States",
+    "Venue Coordinates": "40.713 -74.0132",
+    "Venue Types": "tourist_attraction, observation_deck",
+    "Average Dwell Time": 60
+  },
+  {
+    "Venue Name": "Salmagundi Club",
+    "Venue Address": "47 5th Ave New York, NY 10003 United States",
+    "Venue Coordinates": "40.7343 -73.9946",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Gagosian",
+    "Venue Address": "555 W 24th St New York, NY 10011 United States",
+    "Venue Coordinates": "40.7495 -74.0059",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "International Center of Photography Museum",
+    "Venue Address": "79 Essex St New York, NY 10002 United States",
+    "Venue Coordinates": "40.718 -73.9887",
+    "Venue Types": "art_museum, art_gallery, art_school, museum",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "The Fearless Girl",
+    "Venue Address": "2-26 Broad St New York, NY 10005 United States",
+    "Venue Coordinates": "40.7068 -74.0108",
+    "Venue Types": "tourist_attraction",
+    "Average Dwell Time": 12
+  },
+  {
+    "Venue Name": "Top of The Rock",
+    "Venue Address": "30 Rockefeller Plaza New York, NY 10112 United States",
+    "Venue Coordinates": "40.7593 -73.9794",
+    "Venue Types": "observation_deck, event_venue, tourist_attraction",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Spyscape",
+    "Venue Address": "928 8th Ave New York, NY 10019 United States",
+    "Venue Coordinates": "40.7653 -73.9837",
+    "Venue Types": "museum, book_store, event_venue, tourist_attraction",
+    "Average Dwell Time": 90
+  },
+  {
+    "Venue Name": "Museum of Illusions",
+    "Venue Address": "77 8th Ave New York, NY 10014 United States",
+    "Venue Coordinates": "40.7397 -74.003",
+    "Venue Types": "museum, art_museum, science_museum",
+    "Average Dwell Time": 45
+  },
+  {
+    "Venue Name": "Karma",
+    "Venue Address": "188 E 2nd St New York, NY 10009 United States",
+    "Venue Coordinates": "40.7225 -73.9841",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Carrie Bradshaw’s Apartment",
+    "Venue Address": "66 Perry St New York, NY 10014 United States",
+    "Venue Coordinates": "40.7354 -74.0039",
+    "Venue Types": "tourist_attraction",
+    "Average Dwell Time": 10
+  },
+  {
+    "Venue Name": "AKC Museum of the Dog",
+    "Venue Address": "101 Park Ave New York, NY 10178 United States",
+    "Venue Coordinates": "40.7507 -73.9779",
+    "Venue Types": "museum",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "MUSEUM OF ICE CREAM",
+    "Venue Address": "558 Broadway New York, NY 10012 United States",
+    "Venue Coordinates": "40.7239 -73.9979",
+    "Venue Types": "tourist_attraction, museum",
+    "Average Dwell Time": 75
+  },
+  {
+    "Venue Name": "Pier 51 at Hudson River Park",
+    "Venue Address": "Hudson River Greenway New York, NY 10014 United States",
+    "Venue Coordinates": "40.7382 -74.0108",
+    "Venue Types": "park, playground, tourist_attraction",
+    "Average Dwell Time": 45
+  },
+  {
+    "Venue Name": "Pennsylvania Station",
+    "Venue Address": "New York, NY 10119 United States",
+    "Venue Coordinates": "40.7506 -73.9935",
+    "Venue Types": "train_station",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Martos Gallery",
+    "Venue Address": "41 Elizabeth St New York, NY 10013 United States",
+    "Venue Coordinates": "40.717 -73.997",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Thomas Paine Park",
+    "Venue Address": "Lafayette St & Worth St New York, NY 10007 United States",
+    "Venue Coordinates": "40.715 -74.0027",
+    "Venue Types": "park, tourist_attraction",
+    "Average Dwell Time": 22
+  },
+  {
+    "Venue Name": "Fortnight Institute",
+    "Venue Address": "21 E 3rd St New York, NY 10003 United States",
+    "Venue Coordinates": "40.726 -73.9905",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Staple Street Skybridge",
+    "Venue Address": "9 Jay St New York, NY 10013 United States",
+    "Venue Coordinates": "40.7183 -74.0094",
+    "Venue Types": "tourist_attraction",
+    "Average Dwell Time": 15
+  },
+  {
+    "Venue Name": "Rose Center for Earth and Space",
+    "Venue Address": "81st Street between Central Park West and Columbus Avenue New York, NY 10024 United States",
+    "Venue Coordinates": "40.7818 -73.9731",
+    "Venue Types": "natural_history_museum, tourist_attraction",
+    "Average Dwell Time": 90
+  },
+  {
+    "Venue Name": "SUMMIT One Vanderbilt",
+    "Venue Address": "45 E 42nd St New York, NY 10017 United States",
+    "Venue Coordinates": "40.7528 -73.9787",
+    "Venue Types": "tourist_attraction, art_museum, observatory",
+    "Average Dwell Time": 60
+  },
+  {
+    "Venue Name": "Fountain House Gallery",
+    "Venue Address": "702 9th Ave New York, NY 10019 United States",
+    "Venue Coordinates": "40.7623 -73.9896",
+    "Venue Types": "art_gallery, non_profit_organization",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "DTR Modern Galleries",
+    "Venue Address": "458 W Broadway New York, NY 10012 United States",
+    "Venue Coordinates": "40.7263 -74.0008",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  },
+  {
+    "Venue Name": "Pratt Manhattan Gallery",
+    "Venue Address": "144 W 14th St New York, NY 10011 United States",
+    "Venue Coordinates": "40.7381 -73.999",
+    "Venue Types": "art_gallery",
+    "Average Dwell Time": 0
+  }
+]

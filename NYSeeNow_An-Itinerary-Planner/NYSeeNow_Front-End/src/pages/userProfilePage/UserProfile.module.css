@@ -1,0 +1,183 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: calc(100vh - 200px);
+  width: calc(100vw - 200px);
+  padding: 20px;
+  margin: 80px 120px;
+  position: relative; /* Added this to allow absolute positioning of children */
+  background-color: #ffffff;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+.header {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  border-bottom: 2px solid lightgray;
+  padding: 10px;
+  background-color: #ffffff;
+  text-align: center;
+  z-index: 1; /* Make sure the header is above other elements */
+}
+
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around; /* This will evenly distribute the buttons */
+  padding: 20px;
+  background-color: #ffffff;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  position: absolute;
+  left: 10%;
+  top: 50%;
+  transform: translateY(-50%); /* This will center the sidebar vertically */
+  height: 50%;
+  width: 20%;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  padding-left: 30%;
+  height: 80%;
+  width: 80%;
+}
+
+button {
+  padding: 10px 20px; /* Make the buttons chunky */
+  background-color: #f8f9fa; /* Light grey background */
+  color: #212529; /* Dark grey text */
+  border: 1px solid #dee2e6; /* Grey border */
+  border-radius: 5px; /* Slightly rounded corners */
+  cursor: pointer; /* Change the cursor when hovering over the button */
+  transition: background-color 0.3s ease; /* Smooth background color transition */
+}
+
+button:hover {
+  background-color: #e9ecef; /* Darken the button color when hovering */
+}
+
+button.active {
+  background-color: #ced4da; /* Dark grey background for active tab */
+}
+
+.pageWrapper {
+  background-color: #a0a0a0;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/* Commenting Ronan's changes 
+.profilePic {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;  This will make the image circular 
+  object-fit: cover;  This will ensure the image covers the entire circle 
+  position: absolute;
+  top: 19%;  Adjust this value to move the picture up or down 
+  right: 48%;
+  padding: 1rem;
+}
+
+*/
+
+.profileInfo {
+  font-size: 18px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+/* commenting Ronan's changes */
+
+/* .fileInput {
+  display: block;
+  margin-top: 20px;
+  padding: 1rem 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.fileInputBox {
+  position: absolute;
+  display: block;
+  top: 30%; / Adjust this value to move the file input box up or down /
+  right: 20%;
+  display: block;
+  margin-top: 20px;
+  padding: 10px;
+  border-radius: 4px;
+} */
+
+.bioInput {
+  width: 100%;
+  height: 100px;
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.locationInput,
+.interestsInput {
+  width: 100%;
+  height: 50px;
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.saveButton {
+  width: 100%;
+  height: 50px;
+  margin-top: 20px;
+  background-color: #44bcec;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.saveButton:hover {
+  background-color: #304d6d;
+}
+
+/* Added by Aarya for presentation purposes */
+.userProfileContainer {
+  width: 50vw;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 2vw;
+}
+
+.profilePic {
+  width: 10rem;
+  height: 10rem;
+  border-radius: 50%; /* This will make the image circular */
+  object-fit: cover; /* This will ensure the image covers the entire circle */
+  padding: 2rem;
+}
+
+.fileInput {
+  display: block;
+  padding: 1rem 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin: auto;
+}
+
+.fileInputBox {
+  display: flex;
+  margin: auto;
+  padding: 2rem;
+  border-radius: 4px;
+}

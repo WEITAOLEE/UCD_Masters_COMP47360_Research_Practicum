@@ -1,0 +1,68 @@
+{
+  "user": "someone",
+  "trip_data": {
+    "Thu Jul 27 2023 01:00:00 GMT+0100 (Irish Standard Time)": [
+      {
+        "attractionId": 119,
+        "name": "Mohandas Gandhi",
+        "tourism": "artwork",
+        "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+        "openingHours": "nan",
+        "website": "nan",
+        "latitude": 40.735551,
+        "longitude": -73.991325,
+        "position": {
+          "lat": 40.735551,
+          "lng": -73.991325
+        },
+        "day": "Thu Jul 27 2023 01:00:00 GMT+0100 (Irish Standard Time)",
+        "day_busyness": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        "visitTime": "03:19"
+      }
+    ],
+    "Tue Jul 25 2023 01:00:00 GMT+0100 (Irish Standard Time)": [
+      {
+        "attractionId": 503,
+        "name": "The Friends Experience",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "openingHours": "nan",
+        "website": "https://www.friendstheexperience.com/new-york/",
+        "latitude": 40.739427,
+        "longitude": -73.985015,
+        "position": {
+          "lat": 40.739427,
+          "lng": -73.985015
+        },
+        "day": "Tue Jul 25 2023 01:00:00 GMT+0100 (Irish Standard Time)",
+        "day_busyness": [
+          98, 99, 93, 91, 97, 85, 96, 100, 104, 97, 97, 89, 94, 98, 105, 98, 100, 89, 82, 94, 96,
+          94, 99, 94
+        ],
+        "visitTime": "00:19"
+      }
+    ],
+    "Wed Jul 26 2023 01:00:00 GMT+0100 (Irish Standard Time)": [
+      {
+        "attractionId": 149,
+        "name": "Moynihan Train Hall",
+        "tourism": "attraction",
+        "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+        "openingHours": "nan",
+        "website": "nan",
+        "latitude": 40.751299,
+        "longitude": -73.995338,
+        "position": {
+          "lat": 40.751299,
+          "lng": -73.995338
+        },
+        "day": "Wed Jul 26 2023 01:00:00 GMT+0100 (Irish Standard Time)",
+        "day_busyness": [
+          96, 96, 98, 96, 93, 97, 97, 87, 94, 96, 95, 91, 94, 95, 92, 94, 98, 99, 92, 95, 96, 98,
+          96, 91
+        ],
+        "visitTime": "01:19"
+      }
+    ]
+  }
+}

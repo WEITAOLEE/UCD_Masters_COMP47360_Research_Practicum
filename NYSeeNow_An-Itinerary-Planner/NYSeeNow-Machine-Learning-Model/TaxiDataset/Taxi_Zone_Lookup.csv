@@ -1,0 +1,69 @@
+﻿TaxiZone,Lat,Lon,ZoneName
+4,40.72580,-73.97750,Alphabet City
+24,44.40780,-74.08710,Bloomingdale
+12,40.70290,-74.01540,Battery Park
+13,40.71160,-74.01580,Battery Park City
+41,40.80890,-73.96290,Central Harlem
+45,40.71580,-73.99700,Chinatown
+42,40.81636,-73.96290,Central Harlem North
+43,40.78509,-73.968285,Central Park
+48,43.04976,-75.38309,Clinton East
+50,40.76290,-73.99400,Clinton West
+68,40.74235,-74.00621,East Chelsea
+79,40.72648,-73.98153,East Village
+74,40.79574,-73.93892,East Harlem North
+75,40.79210,-73.93736,East Harlem South
+87,40.70767,-74.00927,Financial District North
+88,40.70601,-74.008827,Financial District South
+90,40.74111,-73.98972,Flatiron
+125,40.72660,-74.00740,Hudson Sq
+100,40.75470,-73.99160,Garment District
+104,40.69950,-74.03960,Governor's Island/Ellis Island/Liberty Island
+105,40.68950,-74.04490,Governor's Island/Ellis Island/Liberty Island
+107,40.73680,-73.98450,Gramercy
+113,40.73357,-74.00274,Greenwich Village North
+114,40.73357,-74.00274,Greenwich Village South
+116,40.82596,-73.94961,Hamilton Heights
+120,40.84463,-73.93296,Highbridge Park
+127,40.86570,-73.92680,Inwood
+128,40.87250,-73.92590,Inwood Hill Park
+151,40.79670,-73.96840,Manhattan Valley
+140,40.76620,-73.96020,Lenox Hill East
+137,40.74233,-73.98006,Kips Bay
+141,40.77080,-73.95670,Lenox Hill West
+142,40.77383,-73.98447,Lincoln Square East
+152,40.80970,-73.95370,Manhattanville
+143,40.77420,73.98490,Lincoln Square West
+144,40.71914,-73.99733,Little Italy/NoLiTa
+148,40.71594,-73.98681,Lower East Side
+153,40.87433,-73.910940,Marble Hill
+158,40.73578,-74.00357,Meatpacking/West Village West
+161,40.75493,-73.98402,Midtown Center
+162,40.75404,-73.96684,Midtown East
+163,40.75493,-73.98402,Midtown North
+164,40.75493,-73.98402,Midtown South
+170,40.74230,-73.97370,Murray Hill
+166,40.80896,-73.96243,Morningside Heights
+186,40.75058,-73.99358,Penn Station/Madison Sq West
+194,40.79130,-73.92260,Randalls Island
+202,40.76190,-73.95010,Roosevelt Island
+209,40.70632,-74.00264,Seaport
+211,40.72150,-74.00000,SoHo
+224,40.72566,-73.97333,Stuy Town/Peter Cooper Village
+229,40.75536,-73.96741,Sutton Place/Turtle Bay North
+230,40.75890,-73.98513,Times Sq/Theatre District
+231,40.71827,-74.00782,TriBeCa/Civic Center
+239,40.78595,-73.97419,Upper West Side South
+232,40.71483,-73.98915,Two Bridges/Seward Park
+233,40.74888,-73.96801,UN/Turtle Bay South
+234,40.73670,-73.98990,Union Sq
+236,40.773565,-73.95656,Upper East Side North
+237,40.76820,-73.95930,Upper East Side South
+238,40.78550,-73.97180,Upper West Side North
+263,40.77622,-73.94921,Yorkville West
+243,40.85200,-73.93600,Washington Heights North
+244,40.84171,-73.93936,Washington Heights South
+246,40.75130,-74.00250,West Chelsea/Hudson Yards
+249,40.73580,-74.00360,West Village
+261,40.71274,-74.01338,World Trade Center
+262,43.112848,-75.27100,Yorkville East

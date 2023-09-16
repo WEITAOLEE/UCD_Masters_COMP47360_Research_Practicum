@@ -1,0 +1,78 @@
+.day-selector option {
+  width: 250px;
+}
+
+
+.attraction-card {
+  display: flex;
+  position: relative;
+  background-color: white;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  margin: 10px 0;
+  max-height: 200px; 
+  padding: 10px;
+  border-radius: 5px;
+  align-items: center; /* Align items vertically in the center */
+}
+
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.card-image {
+  flex-shrink: 0; /* Prevent the image container from shrinking */
+  width: 150px; /* Adjust width as needed */
+  height: 100%; /* Make it fill the height of the card */
+}
+
+.card-content {
+  flex: 1; /* This ensures the content takes up the remaining space */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: white; /* Ensure the background color covers the content */
+  padding: 10px; /* Add some padding for better spacing */
+  border-radius: 5px; /* Add border-radius for aesthetics */
+}
+
+.card-delete-button {
+  background: none;
+  border: none;
+  color: red;
+  font-size: 20px;
+  cursor: pointer;
+  position: absolute; /* Position the button absolutely within its parent */
+  top: -8px; /* Adjust as needed */
+  right: 0px; /* Place it on the top-right corner by default */
+}
+
+.day-selector {
+  border: 1px solid gray;
+  padding: 10px;
+  margin: 10px 0;
+  position: relative;
+  max-width: 530px;
+}
+
+.day-selector option {
+  width: 250px;
+}
+
+.attraction-type-circle {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 600px) {
+  .card-delete-button {
+    right: auto; /* Reset the right positioning */
+    left: -20px; /* Place it on the top-left corner for smaller screens */
+    top: -10px;
+  }
+}

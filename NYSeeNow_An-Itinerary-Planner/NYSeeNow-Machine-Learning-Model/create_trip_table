@@ -1,0 +1,54 @@
+import psycopg2
+
+
+# Establish a connection to the PostgreSQL database
+connection = psycopg2.connect(
+    host='nyseenow.cbqpbir87k5q.eu-west-1.rds.amazonaws.com',
+    port=5432,
+    user='fei',
+    password='22200125',
+    database='UserAccount'
+)
+
+
+# Create a cursor object to execute SQL queries
+cursor = connection.cursor()
+
+
+# Create the Trip table
+create_trip_table_query = '''
+CREATE TABLE IF NOT EXISTS Trip (
+    trip_id SERIAL,
+    username VARCHAR(255),
+    start_date DATE, 
+    end_date DATE,
+    number_of_attractions INTEGER,
+    PRIMARY KEY (trip_id),
+    FOREIGN KEY (username) REFERENCES "UserAccount" (username)
+)
+'''
+
+cursor.execute(create_trip_table_query)
+
+# Create the TripAttraction table
+create_trip_attraction_table_query = '''
+CREATE TABLE IF NOT EXISTS TripAttraction (
+    trip_id INTEGER,
+    attraction_id INTEGER,
+    date DATE,
+    time TIME,
+    prediction INTEGER[],
+    PRIMARY KEY (trip_id, attraction_id, time),
+    FOREIGN KEY (trip_id) REFERENCES Trip (trip_id),
+    FOREIGN KEY (attraction_id) REFERENCES "Attractions" (attraction_id)
+)
+'''
+
+cursor.execute(create_trip_attraction_table_query)
+
+# Commit the changes to the database
+connection.commit()
+
+# Close the cursor and the database connection
+cursor.close()
+connection.close()

@@ -1,0 +1,184 @@
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(
+    255,
+    255,
+    255,
+    0.8
+  ); /* Adjust the background color and opacity as needed */
+  z-index: 9999; /* Set a high z-index to ensure the overlay is on top of other elements */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  overflow-y: auto; /* This makes the content scrollable vertically when needed */
+}
+
+.cardTitle {
+  color: #262626;
+  font-size: 1.5em;
+  line-height: normal;
+  font-weight: 700;
+  margin-bottom: 0.5em;
+}
+
+.attractionSmallCard {
+  width: 20rem;
+  height: 10rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 300px;
+  padding: 35px;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 0.45);
+  box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(15px);
+  z-index: 99;
+}
+
+.smallDesc {
+  font-size: 1em;
+  font-weight: 800;
+  line-height: 1.5em;
+  color: #452c2c;
+}
+
+.smallDesc {
+  font-size: 1em;
+}
+
+.goCorner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  width: 2em;
+  height: 2em;
+  overflow: hidden;
+  top: 0;
+  right: 0;
+  background: linear-gradient(135deg, #6293c8, #384c6c);
+  border-radius: 0 4px 0 32px;
+}
+
+.goArrow {
+  margin-top: -4px;
+  margin-right: -4px;
+  color: white;
+  font-family: courier, sans;
+}
+
+.card h4 {
+  text-decoration: underline;
+}
+
+.card {
+  position: relative;
+  width: 50vw;
+  height: 60vh;
+  background-color: rgba(255, 255, 255, 0); /* Adjust the background color and opacity as needed */
+  border-radius: 10px;
+  padding: 2em 1.2em;
+  margin: 12px;
+  text-decoration: none;
+  z-index: 0;
+  overflow-y: auto;
+  background: linear-gradient(to bottom, #bbbbbf, #bbbbbf);
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.card:before {
+  content: '';
+  position: absolute;
+  z-index: -1;
+  top: -16px;
+  right: -16px;
+  background: linear-gradient(135deg, #3da5d9cc, #3da5d9cc);
+  height: 2rem;
+  width: 2rem;
+  border-radius: 2rem;
+  transform: scale(2);
+  transform-origin: 50% 50%;
+  transition: transform 0.35s ease-out;
+}
+
+.card:hover:before {
+  transform: scale(40);
+}
+
+.card:hover .small-desc {
+  transition: all 0.5s ease-out;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.card h3 {
+  text-decoration: underline;
+}
+.card:hover .card-title {
+  transition: all 0.5s ease-out;
+  color: #ffffff;
+}
+
+.card ul li {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  gap: 0.5rem;
+}
+
+/* .overlayCard {
+  border: 1px solid gray;
+  border-radius: 10px;
+  padding: 4rem;
+  margin: 5rem 0;
+  position: relative;
+  min-width: 50vw;
+  background-color: rgba(
+    255,
+    255,
+    255,
+    0.8
+  ); 
+  box-shadow: 0.5rem 0.5rem 0.5rem #353535;
+} */
+@media (max-width: 768px) {
+  .card {
+    position: relative;
+    width: 30vw;
+    height: 50vh;
+    min-width: 70vw;
+    min-height: 50vh;
+    background-color: #f2f8f9;
+    border-radius: 10px;
+    padding: 2em 1.2em;
+    margin: 12px;
+    text-decoration: none;
+    z-index: 0;
+    overflow: hidden;
+    background: linear-gradient(to bottom, #bbbbbf, #bbbbbf);
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+    overflow-y: auto;
+  }
+
+  .goArrow {
+    display: none;
+  }
+
+  .goCorner {
+    display: none;
+  }
+}

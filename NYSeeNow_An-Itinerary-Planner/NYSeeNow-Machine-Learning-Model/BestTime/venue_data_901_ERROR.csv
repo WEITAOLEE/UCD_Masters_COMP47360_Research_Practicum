@@ -1,0 +1,902 @@
+,Venue Name
+0,The Dakota
+1,Wellington Hotel
+2,Washington Square Hotel
+3,The Jane Hotel
+4,Astor On The Park
+5,The Plaza
+6,United Nations Headquarters
+7,USS Intrepid
+8,Four Points by Sheraton Manhattan
+9,"Holiday Inn Manhattan - Financial District, an IHG Hotel"
+10,Lincoln Center for the Performing Arts
+11,Madison Square Garden
+12,Hotel Edison
+13,"InterContinental New York Barclay, an IHG Hotel"
+14,Trump International Hotel & Tower New York
+15,Met Life Tower
+16,Fairfield Inn Manhattan
+17,Baccarat Hotel
+18,Lotte New York Palace
+19,Quality Inn & Suites
+20,Comfort Suites Manhattan
+21,Riley County Museum
+22,Hilton Garden Inn
+23,Eventi
+24,"Holiday Inn Express Manhattan Midtown West, an IHG Hotel"
+25,Merchant's House Museum
+26,The Bowery Hotel
+27,Hyatt Union Square New York
+28,SIXTY SoHo
+29,NOMO SOHO
+30,Sperone Westwater
+31,The Hotel @ New York City
+32,The Evelyn
+33,The Nomad
+34,Flatiron Hotel
+35,Motto by Hilton New York City Chelsea
+36,Wyndham Garden Chinatown
+37,Club Wyndham Midtown 45
+38,W New York – Union Square
+39,Courtyard by Marriott New York Manhattan/SoHo
+40,Hotel Mulberry
+41,Hilton Garden Inn New York/Tribeca
+42,The Roxy Hotel New York
+43,FDNY Ladder 8
+44,Redford Hotel
+45,Hotel Richland LES
+46,Gansevoort Meatpacking NYC
+47,"The Standard, High Line"
+48,Liberty Inn
+49,Hyatt Centric Times Square New York
+50,Chelsea Pines Inn
+51,Hotel 309
+52,Dream Downtown
+53,Hampton Inn Manhattan-Chelsea
+54,Hyatt Place New York / Chelsea
+55,The Leo House
+56,Selina Chelsea New York City
+57,Midtown West Hotel
+58,Hotel Indigo
+59,Courtyard by Marriott New York Manhattan/Chelsea
+60,DoubleTree by Hilton Hotel New York City - Chelsea
+61,Stewart Hotel
+62,Hotel 17 - Extended Stay
+63,Gramercy Park Hotel
+64,Lex Hotel NYC
+65,Flatiron Building
+66,Courtyard by Marriott New York Manhattan/Midtown West
+67,Hotel Chandler
+68,Best Western Premier Empire State Hotel
+69,JW Marriott Essex House New York
+70,AKA Central Park
+71,1 Hotel Central Park
+72,102 W 57th St
+73,Warwick New York
+74,Conrad New York Midtown
+75,Da Vinci Hotel
+76,Park Central Hotel New York
+77,6 Columbus - Central Park Hotel
+78,The New Yorker Hotel
+79,The Hotel at Fifth Avenue
+80,Life Hotel New York
+81,Hotel Wolcott
+82,Stanford Hotel - New York
+83,New York Manhattan Hotel
+84,Hyatt Herald Square New York
+85,"Martinique New York on Broadway, Curio Collection by Hilton"
+86,The Marmara Park Avenue
+87,Hotel 32|32
+88,HGU New York
+89,Hotel AKA NoMad
+90,Marquis Apartments
+91,Crowne Plaza HY36 Midtown Manhattan
+92,"EVEN Hotel New York - Times Square South, an IHG Hotel"
+93,"Staypineapple, An Artful Hotel, Midtown New York"
+94,Fairfield Inn & Suites
+95,Quality Inn
+96,Henn na Hotel New York
+97,Doxie Hotel
+98,Artel Hotel by The Red Collection Times Square
+99,Element New York Times Square West
+100,La Quinta Inn & Suites by Wyndham Times Square South
+101,Staybridge Suits
+102,"Distrikt Hotel New York City, Tapestry Collection by Hilton"
+103,DoubleTree by Hilton Hotel New York Times Square West
+104,"Candlewood Suites New York City- Times Square, an IHG Hotel"
+105,Hotel Hendricks
+106,SpringHill Suites by Marriott New York Midtown Manhattan/Fifth Avenue
+107,"Marriott Vacation Club Pulse, New York City"
+108,The Gregory Hotel
+109,Kixby hotel
+110,Hampton Inn Manhattan-35th St/Empire State Bldg
+111,Embassy Suites by Hilton New York Manhattan Times Square
+112,Archer Hotel New York
+113,The Knickerbocker
+114,The Skyline Hotel
+115,Ramada by Wyndham
+116,Econo Lodge Times Square
+117,Washington Jefferson Hotel
+118,Belvedere Hotel
+119,The Empire Hotel
+120,Four Seasons Hotel New York
+121,Trump Tower
+122,Courtyard by Marriott New York Manhattan/Fifth Avenue
+123,Hyatt Centric Midtown 5th Avenue New York
+124,AKA Sutton Place
+125,Pod 51
+126,AKA United Nations
+127,Seton Hotel
+128,Pod 39
+129,Murray Hill East Suites
+130,Sonder The William
+131,Dylan Hotel NYC
+132,The Kitano Hotel New York
+133,Library Hotel by Library Hotel Collection
+134,22 E 38th St
+135,"EVEN Hotel New York - Midtown East, an IHG Hotel"
+136,"The Bernic Hotel New York City, Tapestry Collection by Hilton"
+137,San Carlos Hotel
+138,Hotel 48LEX New York
+139,Residence Inn by Marriott New York Manhattan/Midtown East
+140,"The Lexington Hotel, Autograph Collection"
+141,DoubleTree by Hilton Hotel Metropolitan - New York City
+142,The Kimberly
+143,The Benjamin Royal Sonesta
+144,"Blue Angel Hotel NYC, Ascend Hotel Collection"
+145,Hyatt Grand Central New York
+146,The Gotham Hotel NY
+147,"InterContinental New York Times Square, an IHG Hotel"
+148,The Westin New York at Times Square
+149,Aliz Hotel Times Square
+150,"Homewood Suites by Hilton New York/Midtown Manhattan Times Square-South, NY"
+151,Equity Point New York Hotel
+152,Paramount Hotel Times Square
+153,The Gallivant Times Square
+154,ROW NYC
+155,Mayfair Hotel
+156,"Crowne Plaza Times Square Manhattan, an IHG Hotel"
+157,The Algonquin Hotel
+158,Casablanca Hotel by Library Hotel Collection
+159,City Club Hotel
+160,Hotel 46 Times Square
+161,45 Times Square Hotel
+162,Citadines Connect Fifth Avenue New York
+163,Hard Rock Hotel New York
+164,Radisson Hotel
+165,The Iroquois New York
+166,Millennium Hotel Broadway Times Square
+167,Night Hotel at Times Square
+168,Royalton New York
+169,The Chatwal - The Unbound Collection by Hyatt
+170,The Muse New York
+171,Hotel Riu Plaza Manhattan Times Square
+172,AKA Times Square
+173,Mount Vernon Hotel Museum & Garden
+174,Fitzpatrick
+175,The Lombardy
+176,Concorde Hotel New York
+177,Hotel 57 by LuxUrban
+178,Hôtel Plaza Athénée
+179,The Frick Collection
+180,"The Carlyle, A Rosewood Hotel"
+181,The Surrey
+182,The Mark Hotel
+183,Institute for the Study of the Ancient World
+184,Neue Galerie New York
+185,"Le Méridien New York, Central Park"
+186,La Quinta Inn & Suites by Wyndham New York City Central Park
+187,Arthouse Hotel New York City
+188,The Lucerne Hotel
+189,Imperial Court Hotel
+190,Royal Park International Hotel
+191,HI New York City Hostel
+192,Hotel Marrakech
+193,Jazz on The Park Hostel
+194,National Museum Of Catholic Art & History
+195,Abyssinian Baptist Church - Food Distribution Center
+196,General Grant National Memorial
+197,"Club Quarters Hotel World Trade Center, New York"
+198,The Washington by LuxUrban
+199,New York Marriott Downtown
+200,Trump Bldg
+201,DoubleTree by Hilton New York Downtown
+202,The Wall Street Inn
+203,The Suites at Liberty View
+204,Radisson Hotel New York Wall Street
+205,Hampton Inn Manhattan-Seaport-Financial District
+206,Fairfield Inn & Suites by Marriott New York Manhattan/Downtown East
+207,Commanding Officer's Quarters
+208,NYC Audubon
+209,The HoloCenter
+210,Gracie Mansion Conservancy
+211,4565 Broadway
+212,Hotel Riu Plaza New York Times Square
+213,The Westin New York Grand Central
+214,Comfort Inn Manhattan - Midtown West
+215,Executive Hotel Le Soleil New York
+216,Arlo NoMad
+217,Best Western Premier Herald Square
+218,Hyatt Place New York/Midtown-South
+219,Hyatt House New York/Chelsea
+220,Cambria Hotel New York - Chelsea
+221,Cassa Hotel
+222,PUBLIC Hotel
+223,Arlo SoHo
+224,Bluemont Hotel
+225,Hotel Belleclaire
+226,LUMA Hotel Times Square
+227,35 Hudson Yards
+228,International Center of Photography
+229,Ripley
+230,Canal Loft Hotel
+231,Columbia University: Lenfest Center for the Arts
+232,Bryant Park Hotel
+233,One World Trade Center
+234,citizenM New York Bowery hotel
+235,DoubleTree by Hilton New York Times Square South
+236,Hotel 50 Bowery - JDV by Hyatt
+237,Conrad New York Downtown
+238,"Mandarin Oriental, New York"
+239,Aloft
+240,Studios 99
+241,The Allen Hotel
+242,Pendry Manhattan West
+243,"The Standard, East Village"
+244,Renaissance New York Chelsea Hotel
+245,DoubleTree Suites by Hilton Hotel New York City - Times Square
+246,Fitzpatrick Grand Central
+247,The St. Regis New York
+248,Dyckman Farmhouse Museum
+249,Days Hotel
+250,YOTEL New York Times Square
+251,Ink 48 Hotel
+252,Broadway Hotel & Hostel
+253,Hotel Beacon
+254,Central Park Apartments
+255,Senton Hotel
+256,Broadway Plaza Hotel
+257,Hotel Giraffe by Library Hotel Collection
+258,Hotel Chelsea
+259,The GEM Hotel Chelsea
+260,ModernHaus SoHo
+261,St Marks Hotel
+262,The Broken Kilometer
+263,Sohotel
+264,Powers Lowenfels Gallery
+265,NobleDen Hotel
+266,Krause Gallery
+267,The Gatsby Hotel
+268,U.S. Pacific Hotel
+269,Art Projects International
+270,Magenta Plains
+271,The East Village Art Collection
+272,The Maritime Hotel
+273,Carlton Arms Hotel
+274,The Marcel at Gramercy Hotel
+275,Grand Lodge of Free and Accepted Masons
+276,Park South Hotel - JDV by Hyatt
+277,Hilton Club The Quin New York
+278,Mondrian New York Park Avenue
+279,Schwartz Luggage Storage
+280,The Americana Inn
+281,Stonehenge 57
+282,Westgate New York Grand Central
+283,Art Clinic
+284,Iberostar 70 Park Avenue
+285,House ZAZA
+286,The Belnord Hotel
+287,Newton
+288,La casa de los Tenenbaums
+289,Wagner Hotel
+290,Hyatt Centric Wall Street New York
+291,Eurostars Wall Street
+292,33 Seaport Hotel New York
+293,Hotel 91
+294,Harman Projects
+295,Andaz 5th Avenue - a Concept by Hyatt
+296,Gallery Rene Mele
+297,Hilton New York Fashion District
+298,Park Hyatt New York
+299,Manhattan Area Museum
+300,"Club Quarters Hotel Grand Central, New York"
+301,Union Square Apartments
+302,Chelsea Inn Hotel
+303,9/11 Memorial Visitor Center
+304,Millennium Hilton New York One UN Plaza
+305,Hotel Scherman Formerly The Inn
+306,The Renwick
+307,The James New York – NoMad
+308,Chambers powered by Sonder
+309,Wyndham Garden Manhattan Chelsea West
+310,The Wallace
+311,CitySights NY
+312,Sanctuary Hotel New York
+313,Royalton Park Avenue
+314,Radio City Apartments
+315,Inn At Irving Place
+316,Ameritania at Times Square Hotel
+317,Museum of Chinese in America
+318,CITY ROOMS NYC SoHo New York
+319,Chelsea International Hostel
+320,Jazz on Columbus Circle Hostel
+321,Soho Grand Hotel
+322,Dream Midtown
+323,Morgan Presents
+324,9/11 Tribute Museum
+325,The Nolitan
+326,Apollo Hotel
+327,Sugar Hill Children's Museum of Art & Storytelling
+328,Orchard Street Hotel
+329,The Studio Museum in Harlem
+330,The Renee and Chaim Gross Foundation
+331,Bouley Test Kitchen
+332,Mmuseumm
+333,American Dream Bed and Breakfast
+334,The Mercer
+335,Miriam and Ira D. Wallach Art Gallery
+336,AC Hotel by Marriott New York Downtown
+337,Lenin Statue
+338,The Gardens Sonesta ES Suites New York
+339,The Fifty Sonesta Select New York
+340,The Shelburne Sonesta New York
+341,Zürcher Gallery
+342,SLEEPCENTER
+343,Essex Flowers Gallery
+344,FIERMAN
+345,Con Artist Collective
+346,Sago Hotel
+347,bitforms gallery
+348,HG Contemporary
+349,Courtyard by Marriott New York Downtown Manhattan/World Trade Center Area
+350,Lazy Susan Gallery
+351,Vacation
+352,"Faction Art Projects, Gallery 8, New York"
+353,Pod Times Square
+354,David Rubenstein Atrium
+355,East Village Hotel
+356,"voco the Franklin New York, an IHG Hotel"
+357,Judd Foundation
+358,The National Jazz Museum in Harlem
+359,Solita Soho Hotel
+360,Walker Hotel Tribeca
+361,The Africa Center
+362,Space 776 Gallery
+363,The Leon Hotel
+364,"The Beekman, a Thompson Hotel"
+365,David Lewis
+366,The Delancey
+367,NYC Barber Shop Museum
+368,Arsenal Contemporary Art New York
+369,The Wall Street Hotel
+370,Woodward Gallery
+371,Truss Hotel Times Square
+372,Spencer Brownstone Gallery
+373,Trotter&Sholer
+374,MARCH
+375,Louis K. Meisel Gallery
+376,"RWFA Rick Wester Fine Art, Inc."
+377,Fergus McCaffrey
+378,Cheim & Read
+379,The FLAG Art Foundation
+380,Dobrinka Salzman Gallery
+381,Lehmann Maupin
+382,Silverlens
+383,Luhring Augustine Gallery
+384,Fredericks & Freiser
+385,Philippe Labaune Gallery
+386,Anna Zorina Gallery
+387,Cavalier Gallery
+388,Hunter Dunbar Projects
+389,UniX Gallery
+390,Susan Inglett Gallery
+391,Asya Geisberg Gallery
+392,Margaret Thatcher Projects
+393,Crossing Art
+394,Microscope Gallery
+395,Viridian Artists Inc
+396,The Carter Burden Gallery
+397,Blue Mountain Gallery
+398,Montserrat Contemporary Art
+399,Prince Street Gallery
+400,Ross + Kramer Gallery
+401,De Buck Gallery
+402,The Global Fine Art Contemporary Art Gallery
+403,Nancy Hoffman Gallery
+404,Miles McEnery Gallery
+405,Sugarlift
+406,Davidson Gallery
+407,Albertz Benda
+408,Thomas Erben Gallery
+409,BravinLee Gallery
+410,Morgan Lehman Gallery
+411,Deborah Bell Photographs
+412,Alexander Gray Associates
+413,Daniel Cooney Fine Art
+414,David Richard Gallery
+415,Yossi Milo Gallery
+416,Matthew Marks Gallery
+417,Kravets Wehby Gallery
+418,Galleria Ca' d'Oro
+419,Washburn Gallery
+420,Praxis Gallery
+421,Sean Horton
+422,Ricco/Maresca Gallery
+423,Kathryn Markel Fine Arts
+424,Elizabeth Harris Gallery
+425,Ulrik
+426,SLAG & RX Galleries
+427,The 8th Floor
+428,AC Hotel New York Times Square
+429,MoMA
+430,Saint Patrick’s Cathedral
+431,Park View Hotel
+432,Washington Mews
+433,Gay Street
+434,Saint Lukes Place
+435,The High Line
+436,Museum of Jewish Heritage
+437,Bryant Park
+438,The Blockhouse
+439,Chrysler Building
+440,The News Building
+441,Holiday Inn
+442,Super 8
+443,Manhattan
+444,Woolworth Building
+445,Fort Jay
+446,Waldorf-Astoria New York
+447,Tisch's Children Zoo
+448,Columbus Circle
+449,Union Pacific Train Depot
+450,New York Hilton Midtown
+451,Alphabet City
+452,SoHo
+453,Tudor City
+454,New York City Police Memorial
+455,McGraw-Hill Waterfall
+456,New York Marriott Marquis
+457,Wavertree
+458,Ambrose
+459,Helen McAllister
+460,Cleopatra's Needle
+461,Club Quarters
+462,Picnic Area on Marcus Garvey Pool Deck
+463,Washington Square Arch
+465,Hotel MB
+466,The Dominick
+467,W Times Square Hotel
+468,John J. Harvey
+469,The Redbury New York
+470,Park Lane New York
+471,"The Ritz-Carlton New York, Central Park"
+472,Thompson Central Park New York
+473,The Peninsula New York
+474,The Sherry-Netherland
+475,"The Pierre, A Taj Hotel, New York"
+476,The Watson Hotel
+477,Beekman Tower
+478,Ford Foundation
+479,Hotel St. James
+480,Sofitel New York
+481,The Michelangelo New York - Starhotels Collezione
+482,Sheraton New York Times Square Hotel
+483,Radio City Music Hall
+484,The Palladin
+485,Times Square Ball
+486,El Museo Del Barrio
+487,Aloft Harlem
+488,Renaissance New York Midtown Hotel
+489,Millennium Downtown New York
+490,Fairfield Inn & Suites by Marriott New York Midtown Manhattan/Penn Station
+491,TownePlace Suites
+492,Aloft Manhattan Downtown - Financial District
+493,Mount Morris Fire Watchtower
+494,Peace Form One
+495,Roosevelt Island Visitor Center Kiosk
+496,South Street Seaport
+497,"Holiday Inn Express & Suites Manhattan, an IHG Hotel"
+498,The Richard Morris Hunt Memorial
+499,Joan of Arc Memorial
+500,Times Square Museum & Visitor Center
+501,The Churchill Hotel
+502,Dahesh Museum of Art
+503,The Africa Center
+504,West Side YMCA
+505,Courtyard by Marriott New York Downtown Manhattan/Financial District
+506,Charging Bull
+507,Brooklyn Bridge
+508,Manhattan Bridge
+509,Sir Walter Scott Statue
+510,Robert Burns Monument
+511,Christopher Columbus
+512,Visitor Center
+513,George Washington
+514,Mohandas Gandhi
+515,Parkwood Inn & Suites
+516,Vessel
+517,Gapstow Bridge
+518,The Sphere
+519,William Shakespeare
+520,Indian Hunter
+521,Fitz-Greene Halleck
+522,Alice in Wonderland
+523,Flywire Zipline
+524,Bow Bridge
+525,L-Hostels
+526,Sherman Zwicker
+527,Diamond District
+528,Times Square
+529,GWB View
+530,HBP 187 View
+531,"UN Gift Garden - ""Good Defeats Evil"""
+532,Berlin Wall
+533,Westwood Motel
+534,Netherland Monument
+535,NAN Amsterdam
+536,Little Island
+537,Statue of Liberty Museum
+538,The Frederick Hotel
+539,Lower East Side Skatepark
+540,Hotel Central Times Square
+541,Bethesda Fountain
+542,Julie N Nam MD
+543,Snow Babies
+544,John Lennon's Imagine
+545,William Henry Seward Monument
+546,Chester Alan Arthur
+547,Admiral David Glasgow Farragut Monument
+548,General William Tecumseh Sherman Monument
+549,Latham
+550,Statue of Liberty & Ellis Island Tickets
+551,Independence Flagstaff
+552,Rolling Benches
+553,Sherman Creek
+554,Tortoise
+555,Seal
+556,Puffin
+557,California Sea Lion
+558,Gentoo Penguin
+559,Grizzly Bear
+560,Snow Monkey
+561,Red Panda
+562,Snow Leopard
+563,Abraham Lincoln
+564,Marquis de Lafayette statue
+565,Clarion Hotel Park Avenue
+566,Triumph of the Human Spirit
+567,Prometheus
+568,Ace Hotel New York
+569,Adour
+570,Eagle
+571,United Nations Visitors Centre
+572,Hotel 31
+573,The Museum of American Finance
+574,TRYP
+575,LinkNYC
+576,Johnny Kaw Statue
+577,Bosco Clock Tower
+578,Family
+579,Nan's Gift & Party Shoppe
+580,3000 A.D. Diffusion Piece
+581,Link NYC
+582,Martin Luther King Jr. Bust
+583,Growth
+584,George M. Cohan Statue
+585,Juan Pablo Duarte
+586,Flatiron District
+587,Roger Smith Hotel
+588,100 Gates Project
+589,Hampton Inn Manhattan-SoHo
+590,The Manhattan at Times Square Hotel
+591,Bentley Hotel
+592,Francis P. Duffy
+593,Renaissance New York Times Square Hotel
+594,Alexander Hamilton
+595,Balto
+596,Seventh Regiment Memorial
+597,Midtown Convention Center Hotel
+598,Red Cube
+599,Alexander von Humboldt
+600,Albert Bertel Thorvaldsen
+601,Daniel Webster Monument
+602,Johann Christoph Friedrich Von Schiller
+603,Mayor John Purroy Mitchel Memorial
+604,José Martí
+605,King Jagiello Monument
+606,Ludwig van Beethoven
+607,Simón Bolívar
+608,America's Response Monument
+609,The Bowery House
+610,The Houdini Museum
+611,Pier 32
+612,Twister
+613,Time Landscape
+614,Children's Museum of the Arts
+615,Group of Bears
+616,Nonviolence International New York
+617,Alamo
+618,The Paul
+619,Tropical Zone
+620,Hotel Boutique
+621,MANHATTAN
+622,Coenties Ship
+623,Two
+624,Thomas Moore
+625,Victor Herbert
+626,Hans Christian Andersen
+627,The Pilgrim
+628,New World Hotel
+629,Curl
+630,The Trust For Governors Island
+631,Entrance to Oculus
+632,Memorial Entrance
+633,Observatory Entrance
+634,"5 in 1, 1973-74"
+635,Q&A Residential Hotel
+636,citizenM New York Times Square Hotel
+637,New York Bed and Breakfast
+638,Listen
+639,Understanding
+640,Samuel F. B. Morse
+641,Romeo and Juliet
+642,The Tempest
+643,High Line
+644,Liz Christy Garden
+645,Colonnade row
+646,Residence Inn New York Manhattan / Central Park
+647,Couv Led Zepp 5e album
+648,Italian American Museum
+649,The SightSeeing Pass NYC
+650,Chinatown
+651,Hope
+652,John Ericsson Statue
+653,"The Immigrants, 1973"
+654,Chelsea Savoy Hotel
+655,"Group of Four Trees, 1969-72"
+656,Sunken Garden
+657,Cocktail Kingdom
+658,Cortlandt Alley
+659,49 Crosby
+660,"""Curry hill"""
+661,Greenwich Village
+662,American Icon
+663,Lotus Hotel New York
+664,Hudson River Park's River Project Wetlab
+665,Voltz Clarke Gallery
+666,La Maison d'Art
+667,Barthman's Sidewalk Clock
+668,Dream house
+669,La de forest house
+670,Garbage museum
+671,Maison sur les toits
+672,Luggage keeper
+673,WalkNYC
+674,Marine and Maritime Art
+675,Cabin
+676,Governor's Island Kayacking
+677,Chelsea Flea Market
+678,Original brown stone houses
+679,Museum of Modern Art (MoMA) films
+680,WeLive Wall Street
+681,New York EDITION
+682,U Hotel Fifth Avenue
+683,We Are the World
+684,Old Union Square
+685,9/11 Museum Workshop: 100 Images & Artifacts Exhibit
+686,McGraw-Hill Sun Triangle
+687,Free Public Stargazing
+688,Sea Lions
+689,Textile building
+690,Residence Inn by Marriott New York Manhattan/Times Square
+691,Bust of Sylvette
+692,The Ride
+693,Colonial House Inn
+694,The Print Room
+695,SLA 307
+696,The Marmara
+697,Heritage Hotel New York City
+698,Ergie
+699,St Nicholas Hotel
+700,Hotel Scherman
+701,Walker Hotel Greenwich Village
+702,Sylvan Terrace
+703,Skate Circle
+704,The Ludlow Hotel
+705,Paul Nicklen Gallery
+706,Bancroft first floor resident rooms
+707,The Upper Room
+708,Sitting Stance
+709,9/11 Tiles for America Memorial
+710,the Humphrey loft
+711,Exhibition-The Amer Gangster
+712,The Gray Line City Sightseeing Visitor Centre
+713,ATLAS
+714,Broadway Mall Gallery
+715,Saint Nicholas Inn B&B
+716,Asian Arts
+717,Center for Architecture
+718,Hotel Hayden
+719,Anton Kern Gallery
+720,Nikola Tesla Corner
+721,Hotel
+722,Duane Street Hotel
+723,Golda Meir Statue
+724,Food Truck Street
+725,Green’s house
+726,Bloody Angle
+727,Hangman's Elm
+728,Mark Twain House
+729,Bill Snyder
+730,Graffiti Hall of Fame
+731,Metronome
+732,Michael Jackson Mural
+733,Roy Lichtenstein Foundation
+734,Stop Guns - Kobra's Mural
+735,Gandhi and Mother Teresa
+736,Sidewalk Flowers
+737,The Avalon Hotel
+738,Sheraton
+739,NBC Studios
+740,Explore Chinatown Information Kiosk
+741,Site of the Beach Pneumatic Subway
+742,Archibald Townhouse
+743,Theresa Byrnes
+744,General Daniel Butterfield Statue
+745,Reclining Woman
+746,"Three-Way Piece, No. 1: Points"
+747,James Fuentes LLC
+748,Thomas Jefferson
+749,Alexander and Bonin
+750,Hotel Mela Times Square
+751,The Garment Worker
+752,Reena Spaulings Fine Art
+753,Soho Garden Hotel
+754,Spot
+755,186f Kepler
+756,Confucious
+757,Young Elephant (1985)
+758,Paparazzi Dogman and Rabbitwoman
+759,Chinatown Soup
+760,Empirical Nonsense
+761,The Guardians: Superhero
+762,Novo
+763,Dante Alighieri
+764,Time Sculpture
+765,Tourist Office of Spain in New York
+766,"Club Quarters Hotel World Trade Center, New York"
+767,Museum of Reclaimed Urban Space (MoRUS)
+768,Información Spein
+769,Private Passage
+770,Sixth Street Haunted House
+771,CY GAVIN
+772,Club Quarter Hôtel
+773,The Hotel @ Times Square
+774,Taste Harlem Food and Cultural Tours
+775,Park Terrace Hotel
+776,International Student Center Youth Hostel
+777,Scholar's Lion
+778,Lafayette and Washington Monument
+779,Derek Eller Gallery
+780,Jump into the Light VR Arcade
+781,Manhattan Bowery Lodge
+782,Sen Yat-sen
+783,King of Greene Street
+784,Queen of Green Street
+785,Little Singer Building
+786,Giovanni da Verrazzano
+787,Exploring Lower Manhattan
+788,Sphere Within Sphere
+789,Federal Reserve Bank of New York
+790,78-80 Mulberry Street
+791,Audrey Hepburn
+792,Oakwood Furnished Apartments
+793,Columnade
+794,Golf
+795,Reclining Figure
+796,Fairfield Inn & Suites by Marriott New York Manhattan/Central Park
+797,Lincoln Square
+798,Peter the Fisherman
+799,Hilton Garden Inn Midtown Park Avenue
+800,Moses
+801,Alfred E Smith
+802,Lorca-El Niño de las Pinturas
+803,Hudson River Park
+804,Schedule of Events
+805,Eleanor Roosevelt High Residence
+806,La Luz Que Sale De La Obscuridad
+807,Swinging Jenny - Monumental Sculpture
+808,13–19 University Place
+809,Ram
+810,Sabrina
+811,Fortitude
+812,Patience
+813,Cornell Tech
+814,Motherboard Meditation
+815,81 Leonard Gallery
+816,Crescendo
+817,Italian flag painted Apartments
+818,Lincoln Square
+819,Bellerophon Taming Pegasus
+820,Triad
+821,Women's Rights Pioneers Monument
+822,Graduate New York
+823,The Duo
+824,The Guardians: Hero
+825,Northwest Overlook
+826,Southwest Overlook
+827,Southeast Overlook
+828,Eagles and Prey
+829,The Falconer
+830,Giuseppe Garibaldi
+831,Margaret Loeb Kempner
+832,Giuseppe Mazzini
+833,Grolier Club
+834,Dream Machine Ⅱ
+835,Madison LES Hotel
+836,Mother Italy
+837,“Togo”
+838,Bust and monument to Archbishop John J. Hughes
+839,Coast Guard Memorial
+840,New York Subway Stations
+841,Coast Guard Children
+842,The Coast Guard Life
+843,TBA Time Square
+844,Game Inside the Game
+845,Nathan Hale
+846,Civic Fame
+847,Abraham DePeyster
+848,Hudson Yards Vista Point
+849,The Cabrini Woods Nature Sanctuary
+850,St. Ignatius
+851,Tightrope Walker
+852,The Wall Street
+853,Point Thank You
+854,Pier 45
+855,The 4th Street Photo Gallery
+856,Four Points by Sheraton Manhattan Chelsea
+857,The Hole
+858,John Ambrose Statue
+859,Edge
+860,Holographic Studios
+861,"Joan Miro's ""Moonbird"""
+862,Einstein on a Bicycle
+863,The Braves of 9/11
+864,Center street/Civic Center
+865,Chatham Square & East Broadway
+866,Collective Governors Island - A New York City Retreat
+867,Pomegranate Gallery
+868,Guild Gallery
+869,The Girl Puzzle Monument Honoring Nellie Bly
+870,Porcellino
+871,The Light Still Shines
+872,The Story of a Lighthouse
+873,Pop International Galleries
+874,Fiorello H. LaGuardia High School of Music & Art and Performing Arts
+875,"Porkchop, the bulldog bootlegger"
+876,Union Square Drinking Fountain
+877,Ralph Ellison Memorial
+878,"Red-bellied Woodpecker, Yellow-rumped Warbler, Red-tailed Hawk"
+879,"Golden-crowned Kinglet, Ruby-throated Hummingbird, Norther Mockingbird"
+880,Flight Patterns
+881,"American Robin, Baltimore Oriole, Blue Jay"
+882,A Feast in the Forest
+883,Jiangnan Chinese Cuisine
+884,"Gray Catbird, Northern Flicker, Northern Cardinal"
+885,Running Wild
+886,The Cabrini Woods Nature Sanctuary
+887,SFA Projects
+888,Icarus
+889,Rose III
+890,John Watts
+891,Clinton War Memorial
+892,Accord
+893,Georges Berges Gallery
+894,Loews Regency New York
+895,Homeless Jesus
+896,Moshava Art
+897,532 Gallery Thomas Jaeckel
+898,Immigrant Processing in New York
+899,Fort Wood
+900,The Five Founders of the Statue of Liberty
+901,Building the Statue of Liberty

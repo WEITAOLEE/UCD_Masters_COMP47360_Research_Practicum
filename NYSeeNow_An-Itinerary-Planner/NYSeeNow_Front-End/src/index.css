@@ -1,0 +1,477 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial,
+    sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+
+.NYSEENOW-LOGO {
+  position: relative;
+  display: inline-block;
+}
+
+.NYSEENOW-LOGO::after {
+  content: '';
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(70, 130, 180, 0.5); /* Light blue color */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+
+.site-title {
+  font-size: 2rem;
+}
+
+.map-container {
+  height: calc(100vh - 60px);
+  width: calc(100vw - 55px);
+  position: absolute;
+  top: 60px;
+  left: 55px;
+  z-index: 1; 
+}
+
+aside.side-bar {
+  background: white;
+  font-family: 'Roboto', sans-serif;
+  color: #212529;
+  display: flex; /* Change display to flex */
+  flex-direction: row; /* Arrange content and icons horizontally */
+  top: 60px;
+  height: calc(100vh - 60px); 
+  width: 55px;
+  position: fixed;
+  left: 0;
+  transition: width 0.3s ease;
+  overflow: hidden; /* Hide the overflow */
+  box-shadow: 10px 0 15px -10px rgba(0, 0, 0, 0.15);
+  z-index: 1;
+}
+
+aside.side-bar.open {
+  width: 50%;
+  overflow-y: auto; /* Show scrollbar when open */
+  z-index: 2;
+}
+
+.sidebar-content-icons-container {
+  position: relative; /* Make this container a reference for absolute positioning */
+  height: 100%;
+  width: 100%;
+  overflow-y: auto;
+}
+
+.side-bar.open .sidebar-icons {
+  width: 0%;
+}
+
+.sidebar-icons img {
+  width: 30px;
+  height: 30px;
+  object-fit: contain;
+}
+
+.sidebar-link p {
+  font-size: 0.8rem; /* Adjust this value as needed */
+}
+
+.sidebar-icons.sidebar-open {
+  padding-left: 20px; /* Adjust this value as per your requirement */
+}
+
+
+.sidebar-content {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  vertical-align: middle;
+  height: 100%;
+  width: 100%;
+  padding: 1rem 1rem;
+  order: 1; /* Make sure content is displayed before the icons */
+  transform: translateX(-100%); /* Hide the content when the sidebar is closed */
+  z-index: 1;
+  
+}
+
+.sidebar-content.closed {
+  display: none;
+}
+
+.sidebar-icons {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; /* Distribute the buttons evenly */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center; /* Center the text */
+  height: 100%;
+  padding: 1rem 0; /* Add some padding to the top and bottom */
+  order: 2; /* Make sure icons are displayed after the content */
+  width: 55px; /* Set a fixed width for the icons */
+  padding-right: 60px; /* Add left padding to move icons to the left */
+  margin-left: -4.2px;
+}
+
+.sidebar-logo {
+  position: absolute;
+  bottom: 60px;
+  left: 140px;
+  opacity: 0.5;
+  max-width: 100%;
+  max-height: 400px;
+}
+
+
+/* Target the link inside the button */
+.sidebar-icons a {
+  color: inherit; /* Inherit the color from the parent */
+  text-decoration: none; /* Remove the underline */
+}
+
+.top-icons, .question-mark-icon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center; /* Center the text */
+}
+
+
+
+/* Style for the link button */
+.calendar-icon {
+  color: inherit; /* Inherit the color from the parent */
+  text-decoration: none; /* Remove the underline */
+}
+
+.top-icons {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+  padding-top: 1rem;
+}
+
+.top-icons div, .question-mark-icon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center; /* Center the text */
+}
+
+
+.top-icons div p, .question-mark-icon p {
+  margin-top: 0.5rem; /* Add some margin to the top of the text */
+  font-size: 0.8rem; /* Adjust the font size of the text */
+}
+
+.side-bar.open .sidebar-content {
+  transform: translateX(0); /* Show the content when the sidebar is open */
+}
+
+.question-mark-icon {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 0; /* Adjust if needed */
+  padding-bottom: 1rem;
+}
+
+.question-mark-icon img {
+  width: 30px;
+  height: 30px;
+}
+
+.my-svg {
+  width: 50px; /* adjust as necessary */
+  height: 50px; /* adjust as necessary */
+}
+
+/* Hover Card Styles */
+.hover-card-container {
+  position: relative;
+  width: 250px;
+  border: 1px solid #ccc;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  overflow: hidden;
+  background-color: #fff;
+}
+
+.hover-card-image img {
+  width: 100%;
+  height: auto;
+  max-height: 150px;
+  object-fit: cover;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+.hover-card-info {
+  padding: 10px;
+}
+
+.hover-card-info h3 {
+  margin: 0;
+  padding: 0;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.hover-card-info button {
+  padding: 6px 12px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-right: 5px;
+  background-color: #007BFF;
+  color: #fff;
+  transition: background-color 0.3s ease;
+}
+
+.hover-card-info button:hover {
+  background-color: #0056b3;
+}
+
+.hover-card-info button:last-child {
+  background-color: #dc3545;
+}
+
+.hover-card-info button:last-child:hover {
+  background-color: #c82333;
+}
+
+
+.busyness-indicator {
+  display: flex;
+  align-items: center;
+}
+
+.busyness-circle {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+
+
+
+.card-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-delete-button {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.card-content {
+  margin-top: 10px;
+}
+
+/* Scroller Bar Webkit like Chrome */
+.sidebar-content::-webkit-scrollbar {
+  width: 8px;
+}
+
+.sidebar-content::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 4px;
+}
+
+.sidebar-content::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+/* Firefox */
+.sidebar-content {
+  scrollbar-width: thin;
+  scrollbar-color: #888 #000;
+  order: 1; /* Make sure content is displayed before the icons */
+  overflow-y: auto; /* Enable scrolling */
+}
+
+
+.now-mode-button {
+  position: fixed;
+  right: 60px;
+  bottom: 20px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: black;
+  z-index: 3;
+  cursor: pointer;
+}
+
+
+.now-mode-button:hover {
+  transform: translateY(2px); /* Slightly move the button downwards to simulate a press effect */
+}
+
+
+.sidebar-skyline {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  opacity: 0.5;
+  max-width: 100%;
+  max-height: 600px;
+}
+
+/* Ensures consistent styling for all sidebar icons */
+.sidebar-icons div, .sidebar-icons a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  cursor: pointer;
+  padding: 10px;
+  font-size: 1.3rem; /* Sets a consistent font size for the text */
+}
+
+.locator-icon p {
+  font-size: 0.8rem;
+}
+
+/* Add hover effect to sidebar icons */
+.sidebar-icons div:hover, .sidebar-icons a:hover {
+  background-color: #f0f0f0; /* Background color on hover */
+  border-radius: 10px; /* Rounded corners */
+  transition: background-color 0.3s ease; /* Smooth transition */
+}
+
+/* Responsive Code */
+@media (max-width: 1000px) {
+  .map-container {
+    height: calc(100vh - 100px); /* Adjust the map height to accommodate the bottom bar */
+    width: 100vw; /* Make it span the full width */
+    position: absolute;
+    top: 60px;
+    left: 0; /* Adjust left to 0 */
+    z-index: 1; 
+  }
+
+  aside.side-bar {
+    top: auto; /* Remove the top positioning */
+    bottom: 0; /* Position it at the bottom */
+    height: 70px; /* Adjust the height to match your bottom bar */
+    width: 100%; /* Make it span the full width */
+    flex-direction: row; /* Arrange content and icons horizontally */
+    justify-content: space-around; /* Distribute the buttons evenly */
+    transition: height 0.3s ease;
+    box-shadow: 10px 0 15px -10px rgba(0, 0, 0, 0.15);
+    z-index: 2; /* Make sure the sidebar is above the map */
+    
+  }
+
+
+  .sidebar-content {
+    display: none; 
+  }
+
+  aside.side-bar.open .sidebar-content {
+    display: block; /* Show the content when the sidebar is open */
+  }
+
+  aside.side-bar.open {
+    height: calc(100vh - 30px); /* Adjust the height to extend up to the nav bar */
+    width: 100%; /* Make it span the full width */
+    bottom: 0;
+    overflow-y: auto;
+  }
+
+  
+
+  .hamburger-icon, .locator-icon, .calendar-icon, .question-mark-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 70px; /* Match the height of the sidebar */
+    flex: 1; /* Distribute space evenly */
+    position: absolute; /* Position the buttons absolutely */
+    bottom: 0; /* Stick them to the bottom */
+    width: 25%; /* Divide the width evenly among the buttons */
+  }
+
+  .top-icons {
+    order: 2; /* Make sure icons are displayed after the content */
+  }
+
+  .hamburger-icon i, .locator-icon i, .calendar-icon i, .question-mark-icon i {
+    font-size: 24px; /* Adjust as needed */
+  }
+
+  /* Style for the text within the buttons */
+  .hamburger-icon p, .locator-icon p, .calendar-icon p, .question-mark-icon p {
+    font-size: 12px; /* Adjust as needed */
+    margin-top: 4px; /* Adjust as needed */
+  }
+
+  .hamburger-icon {
+    order: 1; /* Make sure hamburger icon is displayed first */
+    left: 0;
+  }
+
+  .locator-icon {
+    order: 3; /* Make sure locator icon is displayed third */
+    left: 50%;
+  }
+
+  .calendar-icon {
+    order: 2; /* Make sure calendar icon is displayed second */
+    left: 25%;
+  
+  }
+
+  .question-mark-icon {
+    order: 4; /* Make sure question mark icon is displayed fourth */
+    left: 75%; 
+  }
+
+  .now-mode-button {
+    position: fixed;
+    right: 60px;
+    bottom: 90px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    z-index: 1;
+    cursor: pointer;
+  }
+  
+  .close-arrow {
+    position: absolute;
+    top: 50px;
+    right: 13px;
+    font-size: 25px;
+    cursor: pointer;
+    z-index: 1000;
+  }
+    
+}

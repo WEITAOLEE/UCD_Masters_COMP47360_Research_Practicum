@@ -1,0 +1,90 @@
+{
+  "user": "ruby",
+  "trip": {
+    "Fri Jul 21 2023 01:00:00 GMT+0100 (Irish Standard Time)": [
+      {
+        "position": {
+          "lat": 40.7516216,
+          "lng": -73.9753388
+        },
+        "name": "Chrysler Building",
+        "type": "yes",
+        "all_details": {
+          "type": "Feature",
+          "properties": {
+            "name": "Chrysler Building",
+            "tourism": "yes",
+            "description": "nan",
+            "opening_hours": "nan",
+            "website": "nan"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-73.9753388, 40.7516216]
+          }
+        },
+        "day": "Fri Jul 21 2023 01:00:00 GMT+0100 (Irish Standard Time)",
+        "day_busyness": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        "visitTime": "17:45"
+      }
+    ],
+    "Thu Jul 20 2023 01:00:00 GMT+0100 (Irish Standard Time)": [
+      {
+        "position": {
+          "lat": 40.74552,
+          "lng": -73.9822577
+        },
+        "name": "Triad",
+        "type": "artwork",
+        "all_details": {
+          "type": "Feature",
+          "properties": {
+            "name": "Triad",
+            "tourism": "artwork",
+            "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+            "opening_hours": "nan",
+            "website": "nan"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-73.9822577, 40.74552]
+          }
+        },
+        "day": "Thu Jul 20 2023 01:00:00 GMT+0100 (Irish Standard Time)",
+        "day_busyness": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 92, 92, 92, 92, 0, 0, 0, 0, 0, 0, 0, 0, 0
+        ],
+        "visitTime": "17:45"
+      }
+    ],
+    "Wed Jul 19 2023 01:00:00 GMT+0100 (Irish Standard Time)": [
+      {
+        "position": {
+          "lat": 40.749167,
+          "lng": -73.9893438
+        },
+        "name": "Zerospace",
+        "type": "artwork",
+        "all_details": {
+          "type": "Feature",
+          "properties": {
+            "name": "Zerospace",
+            "tourism": "artwork",
+            "description": "Explore a diverse collection of artwork showcasing various styles, themes, and mediums. ",
+            "opening_hours": "nan",
+            "website": "nan"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-73.9893438, 40.749167]
+          }
+        },
+        "day": "Wed Jul 19 2023 01:00:00 GMT+0100 (Irish Standard Time)",
+        "day_busyness": [
+          0, 0, 0, 0, 0, 0, 0, 42, 42, 42, 42, 100, 100, 100, 100, 100, 100, 0, 0, 0, 0, 0, 0, 0
+        ],
+        "visitTime": "19:45"
+      }
+    ]
+  }
+}

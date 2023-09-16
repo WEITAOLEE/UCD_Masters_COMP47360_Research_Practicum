@@ -1,0 +1,34 @@
+/* SidebarContent.module.css */
+
+.sidebar-content {
+  display: flex;
+  flex-direction: column; /* Stack children vertically */
+  height: 100%; /* Take up full height of its parent */
+}
+
+.attraction-container {
+  flex-grow: 1; /* Allow this container to grow and take up available space */
+  overflow-y: auto; /* Allow vertical scrolling */
+}
+
+/* Remove the absolute positioning from the button container */
+.buttonContainer {
+  width: 100%; /* Make it span the entire width of the sidebar */
+  padding: 10px; /* Add some padding for spacing */
+  background-color: inherit; /* Inherit the sidebar's background color */
+}
+
+.buttonContainer button {
+  background: #44bcec;
+  color: white;
+  outline: none;
+  border: 0;
+  width: 88%;
+  padding: 10px 20px;
+  position: relative; /* Change this to relative */
+  left: 6%; /* Center the button */
+}
+
+.buttonContainer button:hover {
+  background: #304d6d;
+}

@@ -1,0 +1,45 @@
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.3); /* Adjust the background color and opacity as needed */
+  z-index: 9999; /* Set a high z-index to ensure the overlay is on top of other elements */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  overflow-y: auto; /* This makes the content scrollable vertically when needed */
+}
+
+.authOverlayCard {
+  border: 1px solid gray;
+  border-radius: 10px;
+  padding: 4rem;
+  margin: 5rem 0;
+  position: relative;
+  min-width: 50vw;
+  background-color: rgba(
+    255,
+    255,
+    255,
+    0.8
+  ); /* Adjust the background color and opacity as needed */
+  box-shadow: 0.5rem 0.5rem 0.5rem #353535;
+}
+
+.authOverlayCard input {
+  border: 1px solid gray;
+  border-radius: 0.2rem;
+  min-height: 2vw;
+  min-width: 20vw;
+}
+
+.authCloseButton {
+  display: block;
+  position: absolute;
+  bottom: 5rem;
+  margin: 0 2vw;
+  box-shadow: 0.5rem 0.5rem 0.5rem #353535;
+}

@@ -1,0 +1,17 @@
+.carouselCard {
+  border: 1px solid black;
+  border-radius: 5% 5%;
+  padding: 1vw;
+  margin: auto;
+  position: relative;
+  max-width: 50vw;
+  width: 20vw;
+  height: 4vw;
+  justify-items: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.2); /* Opaque white background */
+  border-radius: 10px;
+  width: 90%; /* Adjust the width of the container */
+  z-index: 5; /* Ensure the weather data appears above everything else */
+  font-size: 1.5vw;
+}

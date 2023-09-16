@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6e87919b.css",
+    "main.js": "/static/js/main.00749699.js",
+    "static/js/787.10fd5f95.chunk.js": "/static/js/787.10fd5f95.chunk.js",
+    "static/media/skyline.png": "/static/media/skyline.2532df2763bf09716d34.png",
+    "index.html": "/index.html",
+    "main.6e87919b.css.map": "/static/css/main.6e87919b.css.map",
+    "main.00749699.js.map": "/static/js/main.00749699.js.map",
+    "787.10fd5f95.chunk.js.map": "/static/js/787.10fd5f95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e87919b.css",
+    "static/js/main.00749699.js"
+  ]
+}

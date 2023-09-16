@@ -1,0 +1,63 @@
+{
+  "Thu Jul 27 2023 01:00:00 GMT+0100 (Irish Standard Time)": [
+    {
+      "attractionId": 191,
+      "name": "Koreatown",
+      "tourism": "yes",
+      "description": "nan",
+      "openingHours": "nan",
+      "website": "nan",
+      "latitude": 40.747642,
+      "longitude": -73.986516,
+      "position": {
+        "lat": 40.747642,
+        "lng": -73.986516
+      },
+      "day": "Thu Jul 27 2023 01:00:00 GMT+0100 (Irish Standard Time)",
+      "day_busyness": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "visitTime": "11:15"
+    }
+  ],
+  "Tue Jul 25 2023 01:00:00 GMT+0100 (Irish Standard Time)": [
+    {
+      "attractionId": 314,
+      "name": "NY Skyride",
+      "tourism": "attraction",
+      "description": "Explore this fascinating attraction and discover its unique offerings. With various exhibits and activities, it promises an enriching experience for visitors of all ages.",
+      "openingHours": "nan",
+      "website": "skyride.com",
+      "latitude": 40.748327,
+      "longitude": -73.985655,
+      "position": {
+        "lat": 40.748327,
+        "lng": -73.985655
+      },
+      "day": "Tue Jul 25 2023 01:00:00 GMT+0100 (Irish Standard Time)",
+      "day_busyness": [
+        0, 0, 0, 0, 0, 0, 0, 99, 99, 99, 99, 99, 99, 99, 99, 99, 99, 99, 99, 0, 0, 0, 0, 0
+      ],
+      "visitTime": "00:14"
+    }
+  ],
+  "Wed Jul 26 2023 01:00:00 GMT+0100 (Irish Standard Time)": [
+    {
+      "attractionId": 283,
+      "name": "The Morgan Library & Museum",
+      "tourism": "museum",
+      "description": "Explore the rich history and culture that Manhattan has to offer, showcasing various exhibits and artifacts from different eras.",
+      "openingHours": "Tu-Su 10:00-17:30",
+      "website": "https://www.themorgan.org/",
+      "latitude": 40.749191,
+      "longitude": -73.981479,
+      "position": {
+        "lat": 40.749191,
+        "lng": -73.981479
+      },
+      "day": "Wed Jul 26 2023 01:00:00 GMT+0100 (Irish Standard Time)",
+      "day_busyness": [
+        0, 0, 0, 0, 0, 0, 0, 92, 92, 92, 92, 92, 92, 92, 92, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "visitTime": "00:16"
+    }
+  ]
+}

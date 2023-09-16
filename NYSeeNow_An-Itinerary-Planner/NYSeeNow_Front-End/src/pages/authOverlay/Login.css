@@ -1,0 +1,23 @@
+.auth-form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.auth-form,
+.auth-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.auth-form-container > button {
+  margin: 0.25rem 0;
+}
+.auth-form > button {
+  margin: 0.25rem 0;
+}
+
+.auth-form > label {
+  text-align: left;
+  padding: 0.25rem 0;
+}

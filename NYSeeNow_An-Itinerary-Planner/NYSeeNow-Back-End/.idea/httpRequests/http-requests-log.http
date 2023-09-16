@@ -1,0 +1,10 @@
+POST http://localhost:8080/busyness
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-07-31T225835.404.txt
+
+###
+
